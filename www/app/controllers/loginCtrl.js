@@ -18,7 +18,6 @@ function loginCtrl($scope, $location){
     };
 
 
-
     // onSuccess: Get a snapshot of the current acceleration
     //
     function onSuccess(acceleration) {
@@ -27,17 +26,14 @@ function loginCtrl($scope, $location){
         var y = parseInt(acceleration.y);
         element.text(y);
 
-        if (y > 20 || y < -20) {
+        if (y > 15 || y < -15) {
             counter++;
             wankString.text(counter);
         }
-        if (parseInt(counter) > 12) {
+        if (parseInt(counter) > 6) {
             clearInterval(timer);
+            navigator.notification.vibrate(2500);   //iphone will ignore the 2500 ms value and vibrate for an unknown default value of time
         }
-    }
-
-    function stopWatch() {
-        navigator.accelerometer.clearWatch(watchID);
     }
 
     // onError: Failed to get the acceleration
