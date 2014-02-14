@@ -2,11 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c2a6a91-5609-4de0-9bfa-5973bd187352" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/config.xml" afterPath="$PROJECT_DIR$/www/config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Wanker.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/HelloWorld.xcodeproj/project.pbxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/HelloWorld/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/HelloWorld/Classes/AppDelegate.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/HelloWorld/Classes/AppDelegate.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/HelloWorld/Classes/MainViewController.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/HelloWorld/Classes/MainViewController.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/HelloWorld/Classes/MainViewController.xib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/HelloWorld/HelloWorld-Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/HelloWorld/HelloWorld-Prefix.pch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/HelloWorld/Plugins/README" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/HelloWorld/Resources/de.lproj/Localizable.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/HelloWorld/Resources/en.lproj/Localizable.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/HelloWorld/Resources/es.lproj/Localizable.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/HelloWorld/Resources/icons/icon-40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/HelloWorld/Resources/icons/icon-40@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/HelloWorld/Resources/icons/icon-50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/HelloWorld/Resources/icons/icon-50@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/HelloWorld/Resources/icons/icon-60.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/HelloWorld/Resources/icons/icon-60@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/HelloWorld/Resources/icons/icon-72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/HelloWorld/Resources/icons/icon-72@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/HelloWorld/Resources/icons/icon-76.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/HelloWorld/Resources/icons/icon-76@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/HelloWorld/Resources/icons/icon-small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/HelloWorld/Resources/icons/icon-small@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/HelloWorld/Resources/icons/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/HelloWorld/Resources/icons/icon@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/HelloWorld/Resources/se.lproj/Localizable.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/HelloWorld/Resources/splash/Default-568h@2x~iphone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/HelloWorld/Resources/splash/Default-Landscape@2x~ipad.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/HelloWorld/Resources/splash/Default-Landscape~ipad.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/HelloWorld/Resources/splash/Default-Portrait@2x~ipad.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/HelloWorld/Resources/splash/Default-Portrait~ipad.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/HelloWorld/Resources/splash/Default@2x~iphone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/HelloWorld/Resources/splash/Default~iphone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/HelloWorld/config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/HelloWorld/main.m" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/config.xml" afterPath="$PROJECT_DIR$/platforms/ios/www/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/cordova/console.log" afterPath="$PROJECT_DIR$/platforms/ios/cordova/console.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/index.html" afterPath="$PROJECT_DIR$/platforms/ios/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Wanker.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="2c2a6a91-5609-4de0-9bfa-5973bd187352" time="1392375857324" ignored="false" />
+    <file path="/Dummy.txt" changelist="2c2a6a91-5609-4de0-9bfa-5973bd187352" time="1392416158865" ignored="false" />
     <file path="/config.xml" changelist="2c2a6a91-5609-4de0-9bfa-5973bd187352" time="1392415668721" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,19 +72,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="107" selection-start="1725" selection-end="1725" vertical-scroll-proportion="-8.666667">
+            <state line="70" column="133" selection-start="3079" selection-end="3079" vertical-scroll-proportion="1.3786764">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="config.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="25" selection-start="245" selection-end="245" vertical-scroll-proportion="0.14117648">
+            <state line="17" column="95" selection-start="871" selection-end="871" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/app/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -48,7 +102,7 @@
       <file leaf-file-name="spec.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/spec.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="67" column="151" selection-start="2531" selection-end="2531" vertical-scroll-proportion="-15.0">
               <folding />
             </state>
           </provider>
@@ -58,9 +112,7 @@
         <entry file="file://$PROJECT_DIR$/www/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -155,7 +207,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
+              <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -179,7 +231,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
-    <property name="restartRequiresConfirmation" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="FullScreen" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
   </component>
@@ -194,26 +247,56 @@
       </server>
     </servers>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.WankerDebug">
+  <component name="RunManager" selected="JavaScript Debug.Unnamed">
+    <configuration default="false" name="index.html" type="JavascriptDebugSession" factoryName="Local" singleton="true" temporary="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="chrome" />
+        <option name="fileUrl" value="file://$PROJECT_DIR$/www/index.html" />
+      </JSDebuggerConfigurationSettings>
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Remote" singleton="true">
       <JSRemoteDebuggerConfigurationSettings>
-        <option name="engineId" />
+        <option name="engineId" value="embedded" />
         <option name="fileUrl" />
       </JSRemoteDebuggerConfigurationSettings>
       <method />
     </configuration>
-    <configuration default="false" name="WankerDebug" type="JavascriptDebugSession" factoryName="Remote" singleton="true">
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <configuration default="false" name="Unnamed" type="JavascriptDebugSession" factoryName="Remote" singleton="true">
       <JSRemoteDebuggerConfigurationSettings>
         <option name="engineId" value="chrome" />
-        <option name="fileUrl" value="http://localhost:63342/Wanker/" />
+        <option name="fileUrl" value="http://localhost:63342/Wanker" />
       </JSRemoteDebuggerConfigurationSettings>
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.WankerDebug" />
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Unnamed" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
     </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
@@ -243,24 +326,24 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="874" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17148906" sideWeight="0.60079575" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39920425" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17148906" sideWeight="0.8055556" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19444445" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -324,16 +407,70 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/www/js/index.js">
+    <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="95" selection-start="871" selection-end="871" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/spec.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="26" selection-start="3598" selection-end="3598" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/spec.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
@@ -345,16 +482,30 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/index.html">
+    <entry file="file://$PROJECT_DIR$/www/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="107" selection-start="1725" selection-end="1725" vertical-scroll-proportion="-8.666667">
+        <state line="17" column="95" selection-start="871" selection-end="871" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/config.xml">
+    <entry file="file://$PROJECT_DIR$/www/app/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="25" selection-start="245" selection-end="245" vertical-scroll-proportion="0.14117648">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/spec.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="151" selection-start="2531" selection-end="2531" vertical-scroll-proportion="-15.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="133" selection-start="3079" selection-end="3079" vertical-scroll-proportion="1.3786764">
           <folding />
         </state>
       </provider>

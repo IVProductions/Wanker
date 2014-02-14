@@ -26,7 +26,7 @@
         <link rel="stylesheet" type="text/css" href="css/index.css" />
         <title>Wanker The Game</title>
 
-        <!--scripts-->
+        <!-- Scripts -->
         <script type="text/javascript" src="phonegap.js"></script>
         <script type="text/javascript" src="js/index.js"></script>
         <script type="text/javascript" src="js/angular.min.js"></script>
@@ -41,14 +41,31 @@
         <script type="text/javascript">
             app.initialize();
         </script>
+
+        <!-- Module -->
+        <script type="text/javascript" src="app/app.js"></script>
+
+        <!-- Controllers -->
+        <script type="text/javascript" src="app/controllers/loginCtrl.js"></script>
+
+        <!-- Services -->
+
+        <!-- Filters -->
+
+        <!-- Directives -->
+
     </head>
     <body>
-        <div class="app">
+        <!--<div class="app">
             <h1>PhoneGap</h1>
             <div id="deviceready" class="blink">
                 <p class="event listening">Connecting to Device</p>
                 <p class="event received">Device is Ready</p>
             </div>
+        </div>
+        -->
+        <div ng-view="">
+            <!-- Container for the Partials views -->
         </div>
         
     </body>
