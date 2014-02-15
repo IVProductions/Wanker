@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Simon er en kuk</name>
+    <name>Øz er faen ikke riktig klok</name>
     <description>
         Tittelen sier alt
     </description>
@@ -48,4 +48,16 @@
     <gap:splash gap:platform="ios" height="768" src="res/screen/ios/screen-ipad-landscape.png" width="1024" />
     <gap:splash gap:platform="winphone" src="res/screen/windows-phone/screen-portrait.jpg" />
     <access origin="http://127.0.0.1*" />
+
+    <!--> Plugins Here: <-->
+    <key>Plugins</key>
+    <dict>
+        <key>Accelerometer</key>
+        <string>CDVAccelerometer</string>
+    </dict>
+    <dict>
+        <key>Notification</key>
+        <string>CDVNotification</string>
+    </dict>
+
 </widget>
