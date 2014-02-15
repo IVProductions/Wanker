@@ -116,3 +116,211 @@
 
   ]
 ]
+2014-02-14 14:24:04.646 Simon er en kuk[72965:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-14 14:24:04.669 Simon er en kuk[72965:80b] Unlimited access to network resources
+2014-02-14 14:24:05.076 Simon er en kuk[72965:80b] Resetting plugins due to page load.
+2014-02-14 14:24:05.374 Simon er en kuk[72965:80b] Finished load of: file:///Users/Kristoffer/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/64E7396D-0841-4485-9B5E-036E57C6F388/Simon%20er%20en%20kuk.app/www/index.html#/
+2014-02-14 14:24:05.393 Simon er en kuk[72965:80b] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2014-02-14 14:24:05.394 Simon er en kuk[72965:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
+  "Device1932431071",
+  "Device",
+  "getDeviceInfo",
+  [
+
+  ]
+]
+2014-02-14 14:24:05.394 Simon er en kuk[72965:80b] ERROR: Plugin 'NetworkStatus' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2014-02-14 14:24:05.395 Simon er en kuk[72965:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
+  "NetworkStatus1932431072",
+  "NetworkStatus",
+  "getConnectionInfo",
+  [
+
+  ]
+]
+2014-02-14 14:24:10.327 Simon er en kuk[72965:80b] ERROR: Plugin 'Logger' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2014-02-14 14:24:10.328 Simon er en kuk[72965:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
+  "INVALID",
+  "Logger",
+  "logLevel",
+  [
+    "LOG",
+    "deviceready has not fired after 5 seconds."
+  ]
+]
+2014-02-14 14:24:10.329 Simon er en kuk[72965:80b] ERROR: Plugin 'Logger' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2014-02-14 14:24:10.329 Simon er en kuk[72965:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
+  "INVALID",
+  "Logger",
+  "logLevel",
+  [
+    "LOG",
+    "Channel not fired: onCordovaConnectionReady"
+  ]
+]
+2014-02-14 14:24:10.330 Simon er en kuk[72965:80b] ERROR: Plugin 'Logger' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2014-02-14 14:24:10.331 Simon er en kuk[72965:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
+  "INVALID",
+  "Logger",
+  "logLevel",
+  [
+    "LOG",
+    "Channel not fired: onCordovaInfoReady"
+  ]
+]
+2014-02-15 14:42:56.309 Simon er en kuk[76053:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-15 14:42:56.344 Simon er en kuk[76053:80b] Unlimited access to network resources
+2014-02-15 14:42:56.979 Simon er en kuk[76053:80b] Resetting plugins due to page load.
+2014-02-15 14:42:57.369 Simon er en kuk[76053:80b] Finished load of: file:///Users/Kristoffer/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/64E7396D-0841-4485-9B5E-036E57C6F388/Simon%20er%20en%20kuk.app/www/index.html#/
+2014-02-15 14:42:57.385 Simon er en kuk[76053:80b] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2014-02-15 14:42:57.387 Simon er en kuk[76053:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
+  "Device2408773",
+  "Device",
+  "getDeviceInfo",
+  [
+
+  ]
+]
+2014-02-15 14:42:57.387 Simon er en kuk[76053:80b] ERROR: Plugin 'NetworkStatus' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2014-02-15 14:42:57.388 Simon er en kuk[76053:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
+  "NetworkStatus2408774",
+  "NetworkStatus",
+  "getConnectionInfo",
+  [
+
+  ]
+]
+2014-02-15 14:43:02.311 Simon er en kuk[76053:80b] ERROR: Plugin 'Logger' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2014-02-15 14:43:02.312 Simon er en kuk[76053:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
+  "INVALID",
+  "Logger",
+  "logLevel",
+  [
+    "LOG",
+    "deviceready has not fired after 5 seconds."
+  ]
+]
+2014-02-15 14:43:02.313 Simon er en kuk[76053:80b] ERROR: Plugin 'Logger' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2014-02-15 14:43:02.313 Simon er en kuk[76053:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
+  "INVALID",
+  "Logger",
+  "logLevel",
+  [
+    "LOG",
+    "Channel not fired: onCordovaConnectionReady"
+  ]
+]
+2014-02-15 14:43:02.314 Simon er en kuk[76053:80b] ERROR: Plugin 'Logger' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2014-02-15 14:43:02.314 Simon er en kuk[76053:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
+  "INVALID",
+  "Logger",
+  "logLevel",
+  [
+    "LOG",
+    "Channel not fired: onCordovaInfoReady"
+  ]
+]
+2014-02-15 15:08:36.496 Simon er en kuk[77115:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-15 15:08:36.510 Simon er en kuk[77115:80b] Unlimited access to network resources
+2014-02-15 15:08:37.013 Simon er en kuk[77115:80b] Resetting plugins due to page load.
+2014-02-15 15:08:37.318 Simon er en kuk[77115:80b] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2014-02-15 15:08:37.318 Simon er en kuk[77115:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
+  "Device855138250",
+  "Device",
+  "getDeviceInfo",
+  [
+
+  ]
+]
+2014-02-15 15:08:37.319 Simon er en kuk[77115:80b] ERROR: Plugin 'NetworkStatus' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2014-02-15 15:08:37.319 Simon er en kuk[77115:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
+  "NetworkStatus855138251",
+  "NetworkStatus",
+  "getConnectionInfo",
+  [
+
+  ]
+]
+2014-02-15 15:08:37.326 Simon er en kuk[77115:80b] Finished load of: file:///Users/Kristoffer/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/64E7396D-0841-4485-9B5E-036E57C6F388/Simon%20er%20en%20kuk.app/www/index.html#/
+2014-02-15 15:08:42.235 Simon er en kuk[77115:80b] ERROR: Plugin 'Logger' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2014-02-15 15:08:42.235 Simon er en kuk[77115:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
+  "INVALID",
+  "Logger",
+  "logLevel",
+  [
+    "LOG",
+    "deviceready has not fired after 5 seconds."
+  ]
+]
+2014-02-15 15:08:42.236 Simon er en kuk[77115:80b] ERROR: Plugin 'Logger' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2014-02-15 15:08:42.236 Simon er en kuk[77115:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
+  "INVALID",
+  "Logger",
+  "logLevel",
+  [
+    "LOG",
+    "Channel not fired: onCordovaConnectionReady"
+  ]
+]
+2014-02-15 15:08:42.237 Simon er en kuk[77115:80b] ERROR: Plugin 'Logger' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2014-02-15 15:08:42.237 Simon er en kuk[77115:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
+  "INVALID",
+  "Logger",
+  "logLevel",
+  [
+    "LOG",
+    "Channel not fired: onCordovaInfoReady"
+  ]
+]
+2014-02-15 15:15:59.348 Simon er en kuk[78224:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-15 15:15:59.365 Simon er en kuk[78224:80b] Unlimited access to network resources
+2014-02-15 15:15:59.701 Simon er en kuk[78224:80b] Resetting plugins due to page load.
+2014-02-15 15:16:00.085 Simon er en kuk[78224:80b] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2014-02-15 15:16:00.086 Simon er en kuk[78224:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
+  "Device1650461108",
+  "Device",
+  "getDeviceInfo",
+  [
+
+  ]
+]
+2014-02-15 15:16:00.087 Simon er en kuk[78224:80b] ERROR: Plugin 'NetworkStatus' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2014-02-15 15:16:00.087 Simon er en kuk[78224:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
+  "NetworkStatus1650461109",
+  "NetworkStatus",
+  "getConnectionInfo",
+  [
+
+  ]
+]
+2014-02-15 15:16:00.091 Simon er en kuk[78224:80b] Finished load of: file:///Users/Kristoffer/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/64E7396D-0841-4485-9B5E-036E57C6F388/Simon%20er%20en%20kuk.app/www/index.html#/
+2014-02-15 15:16:04.981 Simon er en kuk[78224:80b] ERROR: Plugin 'Logger' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2014-02-15 15:16:04.982 Simon er en kuk[78224:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
+  "INVALID",
+  "Logger",
+  "logLevel",
+  [
+    "LOG",
+    "deviceready has not fired after 5 seconds."
+  ]
+]
+2014-02-15 15:16:04.982 Simon er en kuk[78224:80b] ERROR: Plugin 'Logger' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2014-02-15 15:16:04.983 Simon er en kuk[78224:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
+  "INVALID",
+  "Logger",
+  "logLevel",
+  [
+    "LOG",
+    "Channel not fired: onCordovaConnectionReady"
+  ]
+]
+2014-02-15 15:16:04.983 Simon er en kuk[78224:80b] ERROR: Plugin 'Logger' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2014-02-15 15:16:04.983 Simon er en kuk[78224:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
+  "INVALID",
+  "Logger",
+  "logLevel",
+  [
+    "LOG",
+    "Channel not fired: onCordovaInfoReady"
+  ]
+]

@@ -4,8 +4,11 @@ var Wanker = angular.module('Wanker', []);
 <!--Routing-->
 Wanker.config(function ($routeProvider){
     $routeProvider.when("/", {
-        templateUrl:"app/partials/login.html",
-        controller:"loginCtrl"
+        templateUrl:"app/partials/splash.html",
+        controller:"splashCtrl"
+    }).when("/login",{
+            templateUrl:"app/partials/login.html",
+            controller:"loginCtrl"
     }).when("/menu",{
         templateUrl:"app/partials/menu.html",
         controller:"loginCtrl"
