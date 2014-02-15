@@ -30,7 +30,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="0" selection-start="1506" selection-end="1506" vertical-scroll-proportion="-16.791666">
+            <state line="38" column="68" selection-start="2213" selection-end="2213" vertical-scroll-proportion="-6.7916665">
               <folding />
             </state>
           </provider>
@@ -57,7 +57,7 @@
       <file leaf-file-name="splashCtrl.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/splashCtrl.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="345" selection-end="345" vertical-scroll-proportion="0.0">
+            <state line="34" column="21" selection-start="1287" selection-end="1287" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -76,19 +76,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="30" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0">
+            <state line="7" column="30" selection-start="236" selection-end="236" vertical-scroll-proportion="0.24705882">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="config.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="27" selection-start="255" selection-end="255" vertical-scroll-proportion="0.14117648">
+            <state line="14" column="107" selection-start="704" selection-end="704" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -106,10 +106,10 @@
       <list>
         <option value="$PROJECT_DIR$/app/app.js" />
         <option value="$PROJECT_DIR$/js/index.js" />
-        <option value="$PROJECT_DIR$/app/controllers/splashCtrl.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/app/partials/splash.html" />
         <option value="$PROJECT_DIR$/config.xml" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/app/controllers/splashCtrl.js" />
       </list>
     </option>
   </component>
@@ -412,20 +412,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="0" selection-start="1506" selection-end="1506" vertical-scroll-proportion="-16.791666">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/splashCtrl.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="345" selection-end="345" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/loginCtrl.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="63" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0">
@@ -434,13 +420,6 @@
             <marker date="1392506317000" expanded="true" signature="720:766" placeholder="{...}" />
             <marker date="1392506317000" expanded="true" signature="826:860" placeholder="{...}" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="30" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0">
-          <folding />
         </state>
       </provider>
     </entry>
@@ -460,7 +439,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="27" selection-start="255" selection-end="255" vertical-scroll-proportion="0.14117648">
+        <state line="14" column="107" selection-start="704" selection-end="704" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="68" selection-start="2213" selection-end="2213" vertical-scroll-proportion="-6.7916665">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/splashCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="21" selection-start="1287" selection-end="1287" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="30" selection-start="236" selection-end="236" vertical-scroll-proportion="0.24705882">
           <folding />
         </state>
       </provider>

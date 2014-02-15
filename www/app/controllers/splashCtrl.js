@@ -32,6 +32,8 @@ function splashCtrl($scope, $location){
         }
     };
 
+    app.initialize();
+
     $scope.changeView = function(view){
         $location.path(view);
     }
