@@ -3,6 +3,7 @@ function splashCtrl($scope, $location){
     var app = {
         // Application Constructor
         initialize: function() {
+            alert("init");
             this.bindEvents();
         },
         // Bind Event Listeners
@@ -17,6 +18,7 @@ function splashCtrl($scope, $location){
         // The scope of 'this' is the event. In order to call the 'receivedEvent'
         // function, we must explicity call 'app.receivedEvent(...);'
         onDeviceReady: function() {
+            alert("hey");
             app.receivedEvent('deviceready');
         },
         // Update DOM on a Received Event
