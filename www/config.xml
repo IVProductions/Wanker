@@ -53,14 +53,6 @@
     <feature name="Accelerometer">
         <param name="ios-package" value="CDVAccelerometer" />
     </feature>
-    <key>Plugins</key>
-    <dict>
-        <key>Accelerometer</key>
-        <string>CDVAccelerometer</string>
-    </dict>
-    <dict>
-        <key>Notification</key>
-        <string>CDVNotification</string>
-    </dict>
+    
 
 </widget>

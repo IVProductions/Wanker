@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c2a6a91-5609-4de0-9bfa-5973bd187352" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cordova/config.json" afterPath="$PROJECT_DIR$/.cordova/config.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Simon har en liten tiss/config.xml" afterPath="$PROJECT_DIR$/platforms/ios/Simon har en liten tiss/config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/ios.json" afterPath="$PROJECT_DIR$/plugins/ios.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Simon har en liten tiss.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/platforms/ios/Simon har en liten tiss.xcodeproj/project.pbxproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/config.xml" afterPath="$PROJECT_DIR$/www/config.xml" />
     </list>
     <ignored path="Wanker.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -49,7 +46,7 @@
       <file leaf-file-name="config.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="10" selection-start="3748" selection-end="3748" vertical-scroll-proportion="0.6388889" vertical-offset="495" max-vertical-offset="1080">
+            <state line="55" column="4" selection-start="3719" selection-end="3719" vertical-scroll-proportion="0.75" vertical-offset="420" max-vertical-offset="960">
               <folding />
             </state>
           </provider>
@@ -479,7 +476,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="10" selection-start="3748" selection-end="3748" vertical-scroll-proportion="0.6388889" vertical-offset="495" max-vertical-offset="1080">
+        <state line="55" column="4" selection-start="3719" selection-end="3719" vertical-scroll-proportion="0.75" vertical-offset="420" max-vertical-offset="960">
           <folding />
         </state>
       </provider>
