@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c2a6a91-5609-4de0-9bfa-5973bd187352" name="Default" comment="" />
+    <list default="true" id="2c2a6a91-5609-4de0-9bfa-5973bd187352" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cordova/config.json" afterPath="$PROJECT_DIR$/.cordova/config.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Simon har en liten tiss/config.xml" afterPath="$PROJECT_DIR$/platforms/ios/Simon har en liten tiss/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/ios.json" afterPath="$PROJECT_DIR$/plugins/ios.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Simon har en liten tiss.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/platforms/ios/Simon har en liten tiss.xcodeproj/project.pbxproj" />
+    </list>
     <ignored path="Wanker.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
