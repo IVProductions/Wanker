@@ -14,7 +14,7 @@ function loginCtrl($scope, $location){
     var counter;
     $scope.accel = function() {
         counter = 0;
-        timer = setInterval(function(){navigator.accelerometer.getCurrentAcceleration(onSuccess, onError)}, 500);
+        timer = setInterval(function(){navigator.accelerometer.getCurrentAcceleration(onSuccess, onError)}, 500);       //start interval, every 500ms get Accel
     };
 
 
@@ -31,7 +31,7 @@ function loginCtrl($scope, $location){
             wankString.text(counter);
         }
         if (parseInt(counter) > 6) {
-            clearInterval(timer);
+            clearInterval(timer);                   //stop interval
             navigator.notification.vibrate(2500);   //iphone will ignore the 2500 ms value and vibrate for an unknown default value of time
         }
     }
