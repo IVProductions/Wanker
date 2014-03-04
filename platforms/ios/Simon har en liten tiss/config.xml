@@ -76,4 +76,7 @@
         <key>Notification</key>
         <string>CDVNotification</string>
     </dict>
+    <feature name="Accelerometer">
+        <param name="ios-package" value="CDVAccelerometer" />
+    </feature>
 </widget>
