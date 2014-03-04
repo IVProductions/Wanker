@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Simon har en liten tiss</name>
+    <name>Wanker</name>
     <description>
-        Thats what she said
+        Nuff said.
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
         PhoneGap Team
@@ -50,14 +50,9 @@
     <access origin="http://127.0.0.1*" />
 
     <!--> Plugins Here: <-->
-    <key>Plugins</key>
-    <dict>
-        <key>Accelerometer</key>
-        <string>CDVAccelerometer</string>
-    </dict>
-    <dict>
-        <key>Notification</key>
-        <string>CDVNotification</string>
-    </dict>
+    <feature name="Accelerometer">
+        <param name="ios-package" value="CDVAccelerometer" />
+    </feature>
+    
 
 </widget>

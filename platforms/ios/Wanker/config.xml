@@ -21,9 +21,9 @@
     <feature name="LocalStorage">
         <param name="ios-package" value="CDVLocalStorage" />
     </feature>
-    <name>Simon har en liten tiss</name>
+    <name>Wanker</name>
     <description>
-        Thats what she said
+        Nuff said.
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
         PhoneGap Team
@@ -69,14 +69,13 @@
     <gap:splash gap:platform="ios" height="768" src="res/screen/ios/screen-ipad-landscape.png" width="1024" />
     <gap:splash gap:platform="winphone" src="res/screen/windows-phone/screen-portrait.jpg" />
     <access origin="http://127.0.0.1*" />
-    <key>Plugins</key>
-    <dict>
-        <key>Accelerometer</key>
-        <string>CDVAccelerometer</string>
-        <key>Notification</key>
-        <string>CDVNotification</string>
-    </dict>
     <feature name="Accelerometer">
         <param name="ios-package" value="CDVAccelerometer" />
+    </feature>
+    <feature name="NetworkStatus">
+        <param name="ios-package" value="CDVConnection" />
+    </feature>
+    <feature name="Vibration">
+        <param name="ios-package" value="CDVVibration" />
     </feature>
 </widget>
