@@ -31,6 +31,17 @@
     <description>
         Nuff said.
     </description>
+    <key>Plugins</key>
+    <dict>
+        <key>Accelerometer</key>
+        <string>CDVAccelerometer</string>
+        <key>Notification</key>
+        <string>CDVNotification</string>
+    </dict>
+    <name>Wanker</name>
+    <description>
+        Nuff said.
+    </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
         PhoneGap Team
     </author>
@@ -78,11 +89,7 @@
     <feature name="Accelerometer">
         <param name="ios-package" value="CDVAccelerometer" />
     </feature>
-    <key>Plugins</key>
-    <dict>
-        <key>Accelerometer</key>
-        <string>CDVAccelerometer</string>
-        <key>Notification</key>
-        <string>CDVNotification</string>
-    </dict>
+    <feature name="Notification">
+        <param name="ios-package" value="CDVNotification" />
+    </feature>
 </widget>
