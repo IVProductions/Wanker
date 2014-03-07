@@ -57,6 +57,9 @@ function wordCtrl($scope, $location, wordFactory, stateService) {
         }
     }
 
+    $scope.voice = function() {
+        window.TTSPlugin.speak(speakPluginResultHandler,nativePluginErrorHandler,"heisann");
+    }
 
 
 }
