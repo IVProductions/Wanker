@@ -5,9 +5,6 @@ function mainCtrl($scope, $location, stateService) {
     $scope.message = "MONGO!";      //en test
 
     $scope.redirect = function(path) {
-        //if (path == 'word') {
-          //  $scope.stateService.functions.setCurrentWordID(0);  //set the first word to be presented is of ID 1
-        //}
         $location.path(path);
     };
 

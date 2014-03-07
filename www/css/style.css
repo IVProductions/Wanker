@@ -18,7 +18,7 @@
 }
 
 #prevBtn {
-    width: 70px;
+    width: 65px;
     padding:10px 40px;
     border: 2px solid #a1a1a1;
     background:deepskyblue;
@@ -26,7 +26,7 @@
     border-radius:10px;
 }
 #nextBtn {
-    width: 70px;
+    width: 65px;
     padding:10px 40px;
     border: 2px solid #a1a1a1;
     background:deepskyblue;

@@ -29,8 +29,7 @@ Ping.factory('wordFactory', function() {
             "id": 5,
             "actualWord": "Pigeon",
             "imageURL": "res/img/animals/pigeon.png"
-        },
-
+        }
     ]
     return {words:words};
 })
