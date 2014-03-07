@@ -1,0 +1,41 @@
+.center {
+    text-align: center;
+}
+
+.left {
+    text-align: left;
+}
+
+.right {
+    text-align: right;
+}
+
+.button {
+    border:2px solid #a1a1a1;
+    padding:10px 40px;
+    background:#dddddd;
+    border-radius:17px;
+}
+
+#prevBtn {
+    width: 70px;
+    padding:10px 40px;
+    border: 2px solid #a1a1a1;
+    background:deepskyblue;
+    float: left;
+    border-radius:10px;
+}
+#nextBtn {
+    width: 70px;
+    padding:10px 40px;
+    border: 2px solid #a1a1a1;
+    background:deepskyblue;
+    float: right;
+    border-radius:10px;
+}
+
+#wordPresenter {
+    font-family: "Helvetica Neue Light", "Lucida Grande", "Calibri", "Arial", sans-serif;
+    color:green;
+}
+

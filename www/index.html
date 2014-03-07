@@ -17,25 +17,29 @@
     specific language governing permissions and limitations
     under the License.
 -->
-<html ng-app="Wanker">
+<html>
     <head>
         <meta charset="utf-8" />
         <meta name="format-detection" content="telephone=no" />
         <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
         <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
         <link rel="stylesheet" type="text/css" href="css/index.css" />
-        <title>Wanker</title>
+        <link rel="stylesheet" type="text/css" href="css/style.css" />
+        <title>Ping</title>
     </head>
 
     <body>
 
-
-        <!--scripts-->
-        <script type="text/javascript" src="cordova.js"></script>
-        <script type="text/javascript" src="cordova_plugins.js"></script>
-        <script type="text/javascript" src="js/indeasdx.js"></script>
+    <!--scripts-->
         <script type="text/javascript" src="lib/angular/angular.js"></script>
         <script type="text/javascript" src="lib/angular/angular.min.js"></script>
+        <script type="text/javascript" src="lib/jquery/jquery-1.11.0.js"></script>
+        <script type="text/javascript" src="lib/jquery/jquery-1.11.0.min.js"></script>
+        <script type="text/javascript" src="lib/ftlabs/fastclick.js"></script>
+        <!--Module-->
+        <script type="text/javascript" src="app.js"></script>
+
+        <script type="text/javascript" src="phonegap.js"></script>
         <script type="text/javascript" src="lib/angular/angular-animate.js"></script>
         <script type="text/javascript" src="lib/angular/angular-cookies.js"></script>
         <script type="text/javascript" src="lib/angular/angular-cookies.min.js"></script>
@@ -51,22 +55,20 @@
         <script type="text/javascript" src="lib/angular/angular-scenario.js"></script>
         <script type="text/javascript" src="lib/angular/angular-touch.js"></script>
         <script type="text/javascript" src="lib/angular/angular-touch.min.js"></script>
+        <script type="text/javascript" src="js/index.js"></script>
+
         <!--controllers-->
-        <script type="text/javascript" src="controllers/NotificationController.js"></script>
-        <script type="text/javascript" src="controllers/testCtrl.js"></script>
+        <script type="text/javascript" src="controllers/mainCtrl.js"></script>
+        <script type="text/javascript" src="controllers/wordCtrl.js"></script>
         <!--services-->
-        <script type="text/javascript" src="services/NotificationService.js"></script>
+        <script type="text/javascript" src="services/wordService.js"></script>
+        <script type="text/javascript" src="services/stateService.js"></script>
 
-        <!--Module-->
-        <script type="text/javascript" src="app.js"></script>
-
-        <!--Initialize App by calling init method in index.js-->
         <script type="text/javascript">
-            //app.initialize();
+            app.initialize();
         </script>
 
-
-        <div ng-view="">
+        <div id="view" ng-view="">
             <!-- Container for the Partials views -->
         </div>
     </body>

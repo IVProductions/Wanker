@@ -1,11 +1,11 @@
-<div class="app">
+<div class="app center">
     <h1>Apache Cordova with {{message}}</h1>
     <div id="deviceready" class="blink">
         <p class="event listening">Connecting to Device</p>
         <p class="event received">Device is Ready</p>
         <input type="text" ng-model="message"/>
         <p>{{1+4}}</p>
-        <button class="btn" ng-click="changeShit()">Show Alert</button>
-
+        <div class="button" ng-click="redirect('main')">Main Menu</div>
+        <div class="button" ng-click="changeShit()">Make Ready</div>
     </div>
 </div>

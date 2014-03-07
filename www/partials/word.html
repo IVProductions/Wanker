@@ -1,0 +1,13 @@
+<div class="center">
+    <div class="button" ng-click="redirect('main')">Main Menu</div>
+    </br>
+    <div id="wordPresenter">
+        <div>{{currentWord}}</div>
+        <img ng-src="{{wordImage}}" alt="img">
+    </div>
+
+    <div class="button">Hear Prunanciation</div>
+    </br>
+    <div id="prevBtn" ng-click="prevWord()"><strong>Previous</strong></div>
+    <div id="nextBtn" ng-click="nextWord()"><strong>Next</strong></div>
+</div>
