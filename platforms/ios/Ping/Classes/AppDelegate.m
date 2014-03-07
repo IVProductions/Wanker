@@ -27,7 +27,6 @@
 
 #import "AppDelegate.h"
 #import "MainViewController.h"
-#import "iSpeechSDK.h"
 
 #import <Cordova/CDVPlugin.h>
 
@@ -52,8 +51,7 @@
         NSURLCache* sharedCache = [[[NSURLCache alloc] initWithMemoryCapacity:cacheSizeMemory diskCapacity:cacheSizeDisk diskPath:@"nsurlcache"] autorelease];
 #endif
     [NSURLCache setSharedURLCache:sharedCache];
-    iSpeechSDK *sdk = [iSpeechSDK sharedSDK];
-    sdk.APIKey = @"c8d0824affaea47478ea29ecddf0b6b0";
+
     self = [super init];
     return self;
 }
