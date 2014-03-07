@@ -1,5 +1,5 @@
 Ping.factory("stateService", function() {
-    var currentWordID;
+    var currentWordID = 0;
 
     var functions = {};
 

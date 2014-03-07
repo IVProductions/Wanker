@@ -166,3 +166,75 @@ Terminating in response to SpringBoard's termination.
 2014-03-06 17:01:22.151 Ping[62420:80b] [CDVTimer][TotalPluginStartup] 0.738978ms
 2014-03-06 17:01:22.240 Ping[62420:80b] Resetting plugins due to page load.
 2014-03-06 17:01:22.463 Ping[62420:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html
+2014-03-06 17:18:33.362 Ping[63144:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 17:18:33.389 Ping[63144:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-06 17:18:33.390 Ping[63144:80b] [CDVTimer][statusbar] 0.428975ms
+2014-03-06 17:18:33.390 Ping[63144:80b] [CDVTimer][TotalPluginStartup] 0.786006ms
+2014-03-06 17:18:33.478 Ping[63144:80b] Resetting plugins due to page load.
+2014-03-06 17:18:33.653 Ping[63144:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html
+2014-03-06 17:25:48.277 Ping[63755:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 17:25:48.304 Ping[63755:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-06 17:25:48.305 Ping[63755:80b] [CDVTimer][statusbar] 0.537038ms
+2014-03-06 17:25:48.305 Ping[63755:80b] [CDVTimer][TotalPluginStartup] 0.966966ms
+2014-03-06 17:25:48.391 Ping[63755:80b] Resetting plugins due to page load.
+2014-03-06 17:25:48.564 Ping[63755:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html
+2014-03-06 17:55:59.155 Ping[64425:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 17:55:59.178 Ping[64425:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-06 17:55:59.178 Ping[64425:80b] [CDVTimer][statusbar] 0.431955ms
+2014-03-06 17:55:59.179 Ping[64425:80b] [CDVTimer][TotalPluginStartup] 0.768006ms
+2014-03-06 17:55:59.257 Ping[64425:80b] Resetting plugins due to page load.
+2014-03-06 17:55:59.348 Ping[64425:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html
+2014-03-06 18:04:29.069 Ping[65052:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 18:04:29.091 Ping[65052:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-06 18:04:29.092 Ping[65052:80b] [CDVTimer][statusbar] 0.515997ms
+2014-03-06 18:04:29.092 Ping[65052:80b] [CDVTimer][TotalPluginStartup] 0.918031ms
+2014-03-06 18:04:29.178 Ping[65052:80b] Resetting plugins due to page load.
+2014-03-06 18:04:29.344 Ping[65052:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-06 18:06:12.451 Ping[65837:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 18:06:12.474 Ping[65837:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-06 18:06:12.474 Ping[65837:80b] [CDVTimer][statusbar] 0.405967ms
+2014-03-06 18:06:12.475 Ping[65837:80b] [CDVTimer][TotalPluginStartup] 0.756979ms
+2014-03-06 18:06:12.559 Ping[65837:80b] Resetting plugins due to page load.
+2014-03-06 18:06:12.687 Ping[65837:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html
+2014-03-06 18:07:18.738 Ping[66257:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 18:07:18.766 Ping[66257:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-06 18:07:18.767 Ping[66257:80b] [CDVTimer][statusbar] 0.411034ms
+2014-03-06 18:07:18.767 Ping[66257:80b] [CDVTimer][TotalPluginStartup] 0.764966ms
+2014-03-06 18:07:18.852 Ping[66257:80b] Resetting plugins due to page load.
+2014-03-06 18:07:18.986 Ping[66257:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html
+2014-03-06 18:08:08.379 Ping[66855:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 18:08:08.403 Ping[66855:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-06 18:08:08.403 Ping[66855:80b] [CDVTimer][statusbar] 0.454009ms
+2014-03-06 18:08:08.404 Ping[66855:80b] [CDVTimer][TotalPluginStartup] 0.822008ms
+2014-03-06 18:08:08.487 Ping[66855:80b] Resetting plugins due to page load.
+2014-03-06 18:08:08.643 Ping[66855:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-06 18:14:58.676 Ping[67472:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 18:14:58.703 Ping[67472:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-06 18:14:58.703 Ping[67472:80b] [CDVTimer][statusbar] 0.829041ms
+2014-03-06 18:14:58.704 Ping[67472:80b] [CDVTimer][TotalPluginStartup] 1.305997ms
+2014-03-06 18:14:58.803 Ping[67472:80b] Resetting plugins due to page load.
+2014-03-06 18:14:58.930 Ping[67472:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html
+2014-03-06 18:15:45.130 Ping[68070:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 18:15:45.157 Ping[68070:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-06 18:15:45.158 Ping[68070:80b] [CDVTimer][statusbar] 0.452042ms
+2014-03-06 18:15:45.158 Ping[68070:80b] [CDVTimer][TotalPluginStartup] 0.771999ms
+2014-03-06 18:15:45.244 Ping[68070:80b] Resetting plugins due to page load.
+2014-03-06 18:15:45.409 Ping[68070:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-06 18:30:03.154 Ping[68711:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 18:30:03.179 Ping[68711:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-06 18:30:03.179 Ping[68711:80b] [CDVTimer][statusbar] 0.512004ms
+2014-03-06 18:30:03.180 Ping[68711:80b] [CDVTimer][TotalPluginStartup] 0.925004ms
+2014-03-06 18:30:03.263 Ping[68711:80b] Resetting plugins due to page load.
+2014-03-06 18:30:03.358 Ping[68711:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-06 18:31:41.588 Ping[69544:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 18:31:41.609 Ping[69544:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-06 18:31:41.610 Ping[69544:80b] [CDVTimer][statusbar] 0.453055ms
+2014-03-06 18:31:41.610 Ping[69544:80b] [CDVTimer][TotalPluginStartup] 0.838995ms
+2014-03-06 18:31:41.682 Ping[69544:80b] Resetting plugins due to page load.
+2014-03-06 18:31:41.768 Ping[69544:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-06 18:34:24.687 Ping[70149:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 18:34:24.710 Ping[70149:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-06 18:34:24.710 Ping[70149:80b] [CDVTimer][statusbar] 0.434995ms
+2014-03-06 18:34:24.710 Ping[70149:80b] [CDVTimer][TotalPluginStartup] 0.813007ms
+2014-03-06 18:34:24.796 Ping[70149:80b] Resetting plugins due to page load.
+2014-03-06 18:34:24.903 Ping[70149:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
