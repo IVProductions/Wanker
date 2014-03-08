@@ -57,6 +57,15 @@ function wordCtrl($scope, $location, wordFactory, stateService) {
         }
     }
 
+    $scope.speak = function() {
+        TTSPlugin.speak($scope.currentWord,function(){
+            alert("Plugin works");
+            //success, do something!
+        }, function(){
+            alert("Plugin call failed");
+        });
+    }
+
 
 
 }

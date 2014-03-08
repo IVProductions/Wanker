@@ -26,6 +26,7 @@
 //
 
 #import "MainViewController.h"
+#import <AVFoundation/AVFoundation.h>
 
 @implementation MainViewController
 
@@ -75,6 +76,15 @@
 {
     [super viewDidLoad];
     // Do any additional setup after loading the view from its nib.
+    [MainViewController speakShit:@"I wouldn't let Adam Sandler, suck my SAGGY TITS for one million dollars worth of Oprah's tampons"];
+}
+
++ (void)speakShit:(NSString*)speakString
+{
+    AVSpeechSynthesizer *synthesizer = [[AVSpeechSynthesizer alloc]init];
+    AVSpeechUtterance *utterance = [AVSpeechUtterance speechUtteranceWithString:speakString];
+    [utterance setRate:0.2f];
+    [synthesizer speakUtterance:utterance];
 }
 
 - (void)viewDidUnload

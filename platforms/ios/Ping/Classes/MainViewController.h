@@ -30,7 +30,7 @@
 #import <Cordova/CDVCommandQueue.h>
 
 @interface MainViewController : CDVViewController
-
++(void)speakShit:(NSString*)speakString;
 @end
 
 @interface MainCommandDelegate : CDVCommandDelegateImpl

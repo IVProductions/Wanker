@@ -286,3 +286,157 @@ Terminating in response to SpringBoard's termination.
 2014-03-06 19:15:01.231 Ping[75110:80b] [CDVTimer][TotalPluginStartup] 0.787973ms
 2014-03-06 19:15:01.336 Ping[75110:80b] Resetting plugins due to page load.
 2014-03-06 19:15:01.440 Ping[75110:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-07 19:13:46.183 Ping[86157:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-07 19:13:46.207 Ping[86157:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-07 19:13:46.207 Ping[86157:80b] [CDVTimer][statusbar] 0.487983ms
+2014-03-07 19:13:46.208 Ping[86157:80b] [CDVTimer][TotalPluginStartup] 0.859976ms
+2014-03-07 19:13:46.213 Ping[86157:4917] 19:13:46.213 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 19:13:46.310 Ping[86157:80b] Resetting plugins due to page load.
+2014-03-07 19:13:46.422 Ping[86157:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-07 19:13:52.968 Ping[86157:260b] 19:13:52.968 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-07 19:23:51.641 Ping[86783:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-07 19:23:51.664 Ping[86783:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-07 19:23:51.664 Ping[86783:80b] [CDVTimer][statusbar] 0.414968ms
+2014-03-07 19:23:51.664 Ping[86783:80b] [CDVTimer][TotalPluginStartup] 0.802040ms
+2014-03-07 19:23:51.669 Ping[86783:4917] 19:23:51.669 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 19:23:51.758 Ping[86783:80b] Resetting plugins due to page load.
+2014-03-07 19:23:51.864 Ping[86783:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-07 19:30:21.351 Ping[87405:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-07 19:30:21.374 Ping[87405:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-07 19:30:21.374 Ping[87405:80b] [CDVTimer][statusbar] 0.434995ms
+2014-03-07 19:30:21.375 Ping[87405:80b] [CDVTimer][TotalPluginStartup] 0.813961ms
+2014-03-07 19:30:21.379 Ping[87405:4917] 19:30:21.378 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 19:30:21.471 Ping[87405:80b] Resetting plugins due to page load.
+2014-03-07 19:30:21.566 Ping[87405:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-07 19:37:40.335 Ping[88029:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-07 19:37:40.362 Ping[88029:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-07 19:37:40.362 Ping[88029:80b] [CDVTimer][statusbar] 0.475049ms
+2014-03-07 19:37:40.363 Ping[88029:80b] [CDVTimer][TotalPluginStartup] 0.904977ms
+2014-03-07 19:37:40.368 Ping[88029:4917] 19:37:40.368 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 19:37:40.459 Ping[88029:80b] Resetting plugins due to page load.
+2014-03-07 19:37:40.566 Ping[88029:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-07 19:38:30.162 Ping[88631:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-07 19:38:30.189 Ping[88631:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-07 19:38:30.190 Ping[88631:80b] [CDVTimer][statusbar] 0.435054ms
+2014-03-07 19:38:30.190 Ping[88631:80b] [CDVTimer][TotalPluginStartup] 0.809014ms
+2014-03-07 19:38:30.195 Ping[88631:4917] 19:38:30.195 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 19:38:30.283 Ping[88631:80b] Resetting plugins due to page load.
+2014-03-07 19:38:30.378 Ping[88631:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-07 20:04:01.984 Ping[88631:2b4b] 20:04:01.984 WARNING:   235: Default audio device changed. Restart the simulator to have it use the newly-selected device.
+2014-03-07 20:04:01.985 Ping[88631:90af] 20:04:01.985 WARNING:   235: Default audio device changed. Restart the simulator to have it use the newly-selected device.
+2014-03-07 20:12:54.560 Ping[88631:2c1f] 20:12:54.560 WARNING:   235: Default audio device changed. Restart the simulator to have it use the newly-selected device.
+2014-03-07 20:12:54.561 Ping[88631:b9fb] 20:12:54.561 WARNING:   235: Default audio device changed. Restart the simulator to have it use the newly-selected device.
+2014-03-07 20:12:57.452 Ping[88631:80b] Received memory warning.
+2014-03-07 20:15:09.067 Ping[90252:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-07 20:15:09.089 Ping[90252:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-07 20:15:09.090 Ping[90252:80b] [CDVTimer][statusbar] 0.391006ms
+2014-03-07 20:15:09.090 Ping[90252:80b] [CDVTimer][TotalPluginStartup] 0.710011ms
+2014-03-07 20:15:09.095 Ping[90252:4917] 20:15:09.095 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 20:15:09.166 Ping[90252:80b] Resetting plugins due to page load.
+2014-03-07 20:15:09.248 Ping[90252:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-07 20:17:51.961 Ping[90863:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-07 20:17:51.985 Ping[90863:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-07 20:17:51.986 Ping[90863:80b] [CDVTimer][statusbar] 0.505984ms
+2014-03-07 20:17:51.986 Ping[90863:80b] [CDVTimer][TotalPluginStartup] 0.900984ms
+2014-03-07 20:17:51.991 Ping[90863:4917] 20:17:51.991 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 20:17:52.076 Ping[90863:80b] Resetting plugins due to page load.
+2014-03-07 20:17:52.180 Ping[90863:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-07 20:20:52.088 Ping[91473:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-07 20:20:52.112 Ping[91473:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-07 20:20:52.112 Ping[91473:80b] [CDVTimer][statusbar] 0.521004ms
+2014-03-07 20:20:52.113 Ping[91473:80b] [CDVTimer][TotalPluginStartup] 1.159966ms
+2014-03-07 20:20:52.117 Ping[91473:4917] 20:20:52.117 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 20:20:52.211 Ping[91473:80b] Resetting plugins due to page load.
+2014-03-07 20:20:52.318 Ping[91473:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-07 20:22:25.152 Ping[92079:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-07 20:22:25.174 Ping[92079:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-07 20:22:25.174 Ping[92079:80b] [CDVTimer][statusbar] 0.431001ms
+2014-03-07 20:22:25.175 Ping[92079:80b] [CDVTimer][TotalPluginStartup] 0.828981ms
+2014-03-07 20:22:25.179 Ping[92079:4917] 20:22:25.179 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 20:22:25.267 Ping[92079:80b] Resetting plugins due to page load.
+2014-03-07 20:22:25.377 Ping[92079:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-07 20:30:56.668 Ping[92712:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-07 20:30:56.823 Ping[92712:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-07 20:30:56.824 Ping[92712:80b] [CDVTimer][statusbar] 0.492990ms
+2014-03-07 20:30:56.824 Ping[92712:80b] [CDVTimer][TotalPluginStartup] 0.872970ms
+2014-03-07 20:30:56.834 Ping[92712:4a17] 20:30:56.834 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 20:30:56.980 Ping[92712:80b] Resetting plugins due to page load.
+2014-03-07 20:30:57.179 Ping[92712:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-07 20:31:03.750 Ping[92712:1203] 20:31:03.750 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-07 20:31:07.030 Ping[92712:80b] -[CDVInvokedUrlCommand copyWithZone:]: unrecognized selector sent to instance 0xa63afe0
+2014-03-07 20:31:07.032 Ping[92712:80b] *** WebKit discarded an uncaught exception in the webView:decidePolicyForNavigationAction:request:frame:decisionListener: delegate: <NSInvalidArgumentException> -[CDVInvokedUrlCommand copyWithZone:]: unrecognized selector sent to instance 0xa63afe0
+2014-03-07 20:31:09.321 Ping[92712:80b] -[CDVInvokedUrlCommand copyWithZone:]: unrecognized selector sent to instance 0xaa976a0
+2014-03-07 20:31:09.321 Ping[92712:80b] *** WebKit discarded an uncaught exception in the webView:decidePolicyForNavigationAction:request:frame:decisionListener: delegate: <NSInvalidArgumentException> -[CDVInvokedUrlCommand copyWithZone:]: unrecognized selector sent to instance 0xaa976a0
+2014-03-07 20:31:10.981 Ping[92712:80b] -[CDVInvokedUrlCommand copyWithZone:]: unrecognized selector sent to instance 0xaaa5bd0
+2014-03-07 20:31:10.982 Ping[92712:80b] *** WebKit discarded an uncaught exception in the webView:decidePolicyForNavigationAction:request:frame:decisionListener: delegate: <NSInvalidArgumentException> -[CDVInvokedUrlCommand copyWithZone:]: unrecognized selector sent to instance 0xaaa5bd0
+2014-03-07 20:31:12.223 Ping[92712:80b] -[CDVInvokedUrlCommand copyWithZone:]: unrecognized selector sent to instance 0xa762d60
+2014-03-07 20:31:12.224 Ping[92712:80b] *** WebKit discarded an uncaught exception in the webView:decidePolicyForNavigationAction:request:frame:decisionListener: delegate: <NSInvalidArgumentException> -[CDVInvokedUrlCommand copyWithZone:]: unrecognized selector sent to instance 0xa762d60
+2014-03-07 20:41:58.666 Ping[93336:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-07 20:41:58.691 Ping[93336:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-07 20:41:58.691 Ping[93336:80b] [CDVTimer][statusbar] 0.438988ms
+2014-03-07 20:41:58.691 Ping[93336:80b] [CDVTimer][TotalPluginStartup] 0.788987ms
+2014-03-07 20:41:58.695 Ping[93336:4917] 20:41:58.695 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 20:41:58.773 Ping[93336:80b] Resetting plugins due to page load.
+2014-03-07 20:41:58.875 Ping[93336:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-07 20:42:06.652 Ping[93336:80b] -[CDVInvokedUrlCommand copyWithZone:]: unrecognized selector sent to instance 0xa7a0f30
+2014-03-07 20:42:06.653 Ping[93336:80b] *** WebKit discarded an uncaught exception in the webView:decidePolicyForNavigationAction:request:frame:decisionListener: delegate: <NSInvalidArgumentException> -[CDVInvokedUrlCommand copyWithZone:]: unrecognized selector sent to instance 0xa7a0f30
+2014-03-07 20:42:07.951 Ping[93336:80b] -[CDVInvokedUrlCommand copyWithZone:]: unrecognized selector sent to instance 0xa582930
+2014-03-07 20:42:07.951 Ping[93336:80b] *** WebKit discarded an uncaught exception in the webView:decidePolicyForNavigationAction:request:frame:decisionListener: delegate: <NSInvalidArgumentException> -[CDVInvokedUrlCommand copyWithZone:]: unrecognized selector sent to instance 0xa582930
+2014-03-07 20:42:10.058 Ping[93336:80b] -[CDVInvokedUrlCommand copyWithZone:]: unrecognized selector sent to instance 0xa9b41f0
+2014-03-07 20:42:10.058 Ping[93336:80b] *** WebKit discarded an uncaught exception in the webView:decidePolicyForNavigationAction:request:frame:decisionListener: delegate: <NSInvalidArgumentException> -[CDVInvokedUrlCommand copyWithZone:]: unrecognized selector sent to instance 0xa9b41f0
+2014-03-07 20:42:11.636 Ping[93336:80b] -[CDVInvokedUrlCommand copyWithZone:]: unrecognized selector sent to instance 0xa7c3a60
+2014-03-07 20:42:11.637 Ping[93336:80b] *** WebKit discarded an uncaught exception in the webView:decidePolicyForNavigationAction:request:frame:decisionListener: delegate: <NSInvalidArgumentException> -[CDVInvokedUrlCommand copyWithZone:]: unrecognized selector sent to instance 0xa7c3a60
+2014-03-07 20:46:15.083 Ping[93336:80b] Received memory warning.
+2014-03-07 21:07:50.608 Ping[94763:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-07 21:07:50.631 Ping[94763:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-07 21:07:50.631 Ping[94763:80b] [CDVTimer][statusbar] 0.441968ms
+2014-03-07 21:07:50.631 Ping[94763:80b] [CDVTimer][TotalPluginStartup] 0.820994ms
+2014-03-07 21:07:50.636 Ping[94763:4917] 21:07:50.636 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:07:50.719 Ping[94763:80b] Resetting plugins due to page load.
+2014-03-07 21:07:50.818 Ping[94763:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-07 21:08:00.499 Ping[94763:417] 21:08:00.499 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:08:01.951 Ping[94763:1203] 21:08:01.951 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-07 21:08:44.847 Ping[95365:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-07 21:08:44.871 Ping[95365:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-07 21:08:44.872 Ping[95365:80b] [CDVTimer][statusbar] 0.434995ms
+2014-03-07 21:08:44.872 Ping[95365:80b] [CDVTimer][TotalPluginStartup] 0.783980ms
+2014-03-07 21:08:44.876 Ping[95365:4a17] 21:08:44.876 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:08:44.969 Ping[95365:80b] Resetting plugins due to page load.
+2014-03-07 21:08:45.075 Ping[95365:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-07 21:09:14.027 Ping[95365:1317] 21:09:14.027 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:09:18.187 Ping[95365:4b17] 21:09:18.187 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-07 21:09:19.038 Ping[95365:9b07] 21:09:19.038 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:09:23.213 Ping[95365:4b17] 21:09:23.213 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-07 21:09:24.712 Ping[95365:2d0b] 21:09:24.712 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:09:29.795 Ping[95365:ba0f] 21:09:29.795 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:09:33.929 Ping[95365:4b17] 21:09:33.929 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-07 21:10:27.800 Ping[95976:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-07 21:10:27.827 Ping[95976:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-07 21:10:27.828 Ping[95976:80b] [CDVTimer][statusbar] 0.492990ms
+2014-03-07 21:10:27.828 Ping[95976:80b] [CDVTimer][TotalPluginStartup] 0.881970ms
+2014-03-07 21:10:27.833 Ping[95976:4917] 21:10:27.833 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:10:27.917 Ping[95976:80b] Resetting plugins due to page load.
+2014-03-07 21:10:28.019 Ping[95976:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-07 21:10:42.419 Ping[95976:4113] 21:10:42.419 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:10:43.451 Ping[95976:1203] 21:10:43.451 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-07 21:10:44.049 Ping[95976:b60b] 21:10:44.049 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:10:45.812 Ping[95976:ba07] 21:10:45.812 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:10:47.050 Ping[95976:1203] 21:10:47.050 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-07 21:12:06.420 Ping[95976:8f0f] 21:12:06.420 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:12:08.616 Ping[95976:bf13] 21:12:08.616 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:12:10.552 Ping[95976:b917] 21:12:10.552 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:12:14.476 Ping[95976:2b1b] 21:12:14.476 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:12:19.398 Ping[95976:2e13] 21:12:19.398 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:12:20.974 Ping[95976:e903] 21:12:20.974 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:12:24.123 Ping[95976:dc0f] 21:12:24.123 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:12:25.356 Ping[95976:c807] 21:12:25.356 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-07 21:12:25.453 Ping[95976:f207] 21:12:25.453 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:12:26.631 Ping[95976:f807] 21:12:26.631 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:12:26.680 Ping[95976:c807] 21:12:26.680 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-07 21:12:27.747 Ping[95976:10007] 21:12:27.747 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:12:29.176 Ping[95976:c807] 21:12:29.176 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-07 21:13:38.248 Ping[95976:c80f] 21:13:38.248 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:13:39.282 Ping[95976:10a03] 21:13:39.282 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:13:39.481 Ping[95976:da0b] 21:13:39.481 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-07 21:13:40.612 Ping[95976:11103] 21:13:40.612 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:13:40.735 Ping[95976:da0b] 21:13:40.735 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
