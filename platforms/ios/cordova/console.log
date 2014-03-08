@@ -440,3 +440,21 @@ Terminating in response to SpringBoard's termination.
 2014-03-07 21:13:39.481 Ping[95976:da0b] 21:13:39.481 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
 2014-03-07 21:13:40.612 Ping[95976:11103] 21:13:40.612 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
 2014-03-07 21:13:40.735 Ping[95976:da0b] 21:13:40.735 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-07 21:19:44.694 Ping[95976:10b27] 21:19:44.694 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:19:46.399 Ping[95976:e31b] 21:19:46.399 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:19:51.216 Ping[95976:12603] 21:19:51.216 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:19:52.297 Ping[95976:11a03] 21:19:52.297 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-07 21:20:02.742 Ping[95976:11907] 21:20:02.742 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:20:03.988 Ping[95976:12d07] 21:20:03.988 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-07 21:20:04.842 Ping[95976:13503] 21:20:04.842 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:20:06.562 Ping[95976:13607] 21:20:06.562 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:21:14.116 Ping[95976:12d0b] 21:21:14.116 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:24:37.383 Ping[96849:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-07 21:24:37.407 Ping[96849:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-07 21:24:37.407 Ping[96849:80b] [CDVTimer][statusbar] 0.384033ms
+2014-03-07 21:24:37.407 Ping[96849:80b] [CDVTimer][TotalPluginStartup] 0.696003ms
+2014-03-07 21:24:37.412 Ping[96849:4917] 21:24:37.412 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:24:37.502 Ping[96849:80b] Resetting plugins due to page load.
+2014-03-07 21:24:37.599 Ping[96849:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-07 21:24:57.186 Ping[96849:4113] 21:24:57.186 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:24:58.225 Ping[96849:2c07] 21:24:58.225 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634

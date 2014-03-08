@@ -54,7 +54,7 @@ function wordCtrl($scope, $location, wordFactory, stateService) {
             if (prevWordID == 0) {
                 $("#prevBtn").hide();
             }
-        }
+        }  
     }
 
     $scope.speak = function() {
