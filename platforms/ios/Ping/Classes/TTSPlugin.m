@@ -12,10 +12,12 @@
 @implementation TTSPlugin
 
 -(void)speakStuff:(CDVInvokedUrlCommand *)speakString {
-    NSString* myarg = [speakString.arguments objectAtIndex:0];  //take the incoming speakString object and extract the string
+    NSString* textToBeSpoken = [speakString.arguments objectAtIndex:0];  //take the incoming speakString object and extract the string
     AVSpeechSynthesizer *synthesizer = [[AVSpeechSynthesizer alloc]init];
-    AVSpeechUtterance *utterance = [AVSpeechUtterance speechUtteranceWithString:myarg];
-    [utterance setRate:0.0f];
+    //var synthesizer = new AVSpeechSynthesizer();
+    AVSpeechUtterance *utterance = [AVSpeechUtterance speechUtteranceWithString:textToBeSpoken];
+    [utterance setRate:0.2f];
+    utterance.voice = [AVSpeechSynthesisVoice voiceWithLanguage:@"no-NO"];
     [synthesizer speakUtterance:utterance];
 }
 
