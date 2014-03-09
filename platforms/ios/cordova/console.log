@@ -558,3 +558,20 @@ Terminating in response to SpringBoard's termination.
 2014-03-08 23:36:13.357 Ping[6840:6a07] 23:36:13.357 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
 2014-03-08 23:36:13.376 Ping[6840:80b] THREAD WARNING: ['TTSPlugin'] took '31.133789' ms. Plugin should use a background thread.
 2014-03-08 23:36:14.816 Ping[6840:80b] OK button clicked
+2014-03-09 00:08:19.160 Ping[8311:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-09 00:08:19.184 Ping[8311:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-09 00:08:19.185 Ping[8311:80b] [CDVTimer][statusbar] 0.703990ms
+2014-03-09 00:08:19.185 Ping[8311:80b] [CDVTimer][TotalPluginStartup] 1.186013ms
+2014-03-09 00:08:19.267 Ping[8311:80b] Resetting plugins due to page load.
+2014-03-09 00:08:19.368 Ping[8311:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-09 00:08:36.017 Ping[8311:670b] 00:08:36.017 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-09 00:08:36.025 Ping[8311:80b] *** Assertion failure in -[UIApplication runModal:](), /SourceCache/UIKit_Sim/UIKit-2903.23/UIApplication.m:9465
+2014-03-09 00:08:36.025 Ping[8311:80b] *** WebKit discarded an uncaught exception in the webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame: delegate: <NSInternalInconsistencyException> The view passed in does not have a window.
+2014-03-09 00:08:36.026 Ping[8311:80b] THREAD WARNING: ['TTSPlugin'] took '20.693848' ms. Plugin should use a background thread.
+2014-03-09 00:08:36.058 Ping[8311:6503] 00:08:36.058 ERROR:     185: Error creating aggregate audio device: 'nope'
+2014-03-09 00:08:36.059 Ping[8311:6503] 00:08:36.059 WARNING:   219: The input device is 0x39; 'AppleHDAEngineInput:1B,0,1,0:1'
+2014-03-09 00:08:36.059 Ping[8311:6503] 00:08:36.059 WARNING:   223: The output device is 0x2f; 'AppleHDAEngineOutput:1B,0,1,1:0'
+2014-03-09 00:08:36.060 Ping[8311:6503] 00:08:36.060 ERROR:     398: error 'nope'
+2014-03-09 00:08:36.060 Ping[8311:6d07] 00:08:36.060 ERROR:     398: error -66680
+2014-03-09 00:08:36.060 Ping[8311:6d07] 00:08:36.060 ERROR:     >aq> 1608: failed (-66680); will stop (33075/0 frames)
+2014-03-09 00:08:38.319 Ping[8311:80b] OK button clicked
