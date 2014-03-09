@@ -17,17 +17,18 @@
     if (textToBeSpoken != nil && [textToBeSpoken length] > 0) {
         pluginResult = [CDVPluginResult resultWithStatus:CDVCommandStatus_OK messageAsString:textToBeSpoken];
         [self addAlertView:@"success!"];
+        [self.commandDelegate sendPluginResult:pluginResult callbackId:speakString.callbackId];
     }
     else {
         pluginResult = [CDVPluginResult resultWithStatus:CDVCommandStatus_ERROR];
         [self addAlertView:@"failure! Input string is empty"];
+        [self.commandDelegate sendPluginResult:pluginResult callbackId:speakString.callbackId];
     }
     AVSpeechSynthesizer *synthesizer = [[AVSpeechSynthesizer alloc]init];
     AVSpeechUtterance *utterance = [AVSpeechUtterance speechUtteranceWithString:textToBeSpoken];
     [utterance setRate:0.2f];
     utterance.voice = [AVSpeechSynthesisVoice voiceWithLanguage:@"no-NO"];
     [synthesizer speakUtterance:utterance];
-    [self.commandDelegate sendPluginResult:pluginResult callbackId:speakString.callbackId];
 }
 
 -(void)addAlertView:(NSString *)message{
