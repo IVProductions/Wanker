@@ -19,6 +19,31 @@
     [utterance setRate:0.2f];
     utterance.voice = [AVSpeechSynthesisVoice voiceWithLanguage:@"no-NO"];
     [synthesizer speakUtterance:utterance];
+    [self addAlertView];
+}
+
+-(void)addAlertView{
+    UIAlertView *alertView = [[UIAlertView alloc]initWithTitle:
+                              @"Title" message:@"This is a test alert" delegate:self
+                                             cancelButtonTitle:@"Cancel" otherButtonTitles:@"Ok", nil];
+    [alertView show];
+}
+
+
+#pragma mark - Alert view delegate
+- (void)alertView:(UIAlertView *)alertView clickedButtonAtIndex:
+(NSInteger)buttonIndex{
+    switch (buttonIndex) {
+        case 0:
+            NSLog(@"Cancel button clicked");
+            break;
+        case 1:
+            NSLog(@"OK button clicked");
+            break;
+            
+        default:
+            break;
+    }
 }
 
 @end
