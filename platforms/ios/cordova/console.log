@@ -533,3 +533,28 @@ Terminating in response to SpringBoard's termination.
 2014-03-08 23:25:00.208 Ping[5271:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
 2014-03-08 23:25:10.660 Ping[5271:80b] THREAD WARNING: ['TTSPlugin'] took '29.598145' ms. Plugin should use a background thread.
 2014-03-08 23:25:10.660 Ping[5271:6013] 23:25:10.660 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-08 23:35:05.087 Ping[6237:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-08 23:35:05.148 Ping[6237:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-08 23:35:05.150 Ping[6237:80b] [CDVTimer][statusbar] 1.288950ms
+2014-03-08 23:35:05.151 Ping[6237:80b] [CDVTimer][TotalPluginStartup] 2.310038ms
+2014-03-08 23:35:05.249 Ping[6237:80b] Resetting plugins due to page load.
+2014-03-08 23:35:05.588 Ping[6237:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-08 23:35:12.884 Ping[6237:4113] 23:35:12.883 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-08 23:35:12.924 Ping[6237:80b] THREAD WARNING: ['TTSPlugin'] took '59.551025' ms. Plugin should use a background thread.
+2014-03-08 23:35:14.073 Ping[6237:1203] 23:35:14.073 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-08 23:35:17.866 Ping[6237:80b] OK button clicked
+2014-03-08 23:35:19.012 Ping[6237:6f07] 23:35:19.012 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-08 23:35:19.032 Ping[6237:80b] THREAD WARNING: ['TTSPlugin'] took '20.746826' ms. Plugin should use a background thread.
+2014-03-08 23:35:19.896 Ping[6237:80b] OK button clicked
+2014-03-08 23:35:20.655 Ping[6237:c007] 23:35:20.655 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-08 23:35:20.674 Ping[6237:80b] THREAD WARNING: ['TTSPlugin'] took '20.678955' ms. Plugin should use a background thread.
+2014-03-08 23:35:21.725 Ping[6237:80b] OK button clicked
+2014-03-08 23:36:06.942 Ping[6840:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-08 23:36:06.967 Ping[6840:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-08 23:36:06.967 Ping[6840:80b] [CDVTimer][statusbar] 0.469029ms
+2014-03-08 23:36:06.968 Ping[6840:80b] [CDVTimer][TotalPluginStartup] 0.837982ms
+2014-03-08 23:36:07.055 Ping[6840:80b] Resetting plugins due to page load.
+2014-03-08 23:36:07.178 Ping[6840:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-08 23:36:13.357 Ping[6840:6a07] 23:36:13.357 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-08 23:36:13.376 Ping[6840:80b] THREAD WARNING: ['TTSPlugin'] took '31.133789' ms. Plugin should use a background thread.
+2014-03-08 23:36:14.816 Ping[6840:80b] OK button clicked

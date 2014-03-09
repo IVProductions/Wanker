@@ -22,8 +22,8 @@
 
 var TTSPlugin = {
     speak: function(message, success, failure){
-        //alert("inside Method");
+        alert("inside Method");
         cordova.exec(success, failure, "TTSPlugin", "speakStuff", [message]);
-        //alert("after method has been called");
+        alert("after method has been called");
     }
 };
