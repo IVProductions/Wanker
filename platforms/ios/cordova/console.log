@@ -1,432 +1,607 @@
-2014-02-14 12:04:17.607 HelloWorld[68379:80b] Multi-tasking -> Device: YES, App: YES
-2014-02-14 12:04:17.633 HelloWorld[68379:80b] Unlimited access to network resources
-2014-02-14 12:04:18.074 HelloWorld[68379:80b] Resetting plugins due to page load.
-2014-02-14 12:04:18.256 HelloWorld[68379:80b] Finished load of: file:///Users/Kristoffer/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/EA01CB83-B03A-4AD7-BD6D-42409769A1E2/HelloWorld.app/www/index.html
-2014-02-14 13:40:52.523 HelloWorld[70420:80b] Multi-tasking -> Device: YES, App: YES
-2014-02-14 13:40:52.578 HelloWorld[70420:80b] Unlimited access to network resources
-2014-02-14 13:40:53.449 HelloWorld[70420:80b] Resetting plugins due to page load.
-2014-02-14 13:40:53.954 HelloWorld[70420:80b] Finished load of: file:///Users/Kristoffer/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/EA01CB83-B03A-4AD7-BD6D-42409769A1E2/HelloWorld.app/www/index.html
-2014-02-14 13:40:54.012 HelloWorld[70420:80b] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2014-02-14 13:40:54.014 HelloWorld[70420:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
-  "Device1316892005",
-  "Device",
-  "getDeviceInfo",
-  [
-
-  ]
-]
-2014-02-14 13:40:54.014 HelloWorld[70420:80b] ERROR: Plugin 'NetworkStatus' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2014-02-14 13:40:54.015 HelloWorld[70420:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
-  "NetworkStatus1316892006",
-  "NetworkStatus",
-  "getConnectionInfo",
-  [
-
-  ]
-]
-2014-02-14 13:40:58.920 HelloWorld[70420:80b] ERROR: Plugin 'Logger' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2014-02-14 13:40:58.921 HelloWorld[70420:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
-  "INVALID",
-  "Logger",
-  "logLevel",
-  [
-    "LOG",
-    "deviceready has not fired after 5 seconds."
-  ]
-]
-2014-02-14 13:40:58.922 HelloWorld[70420:80b] ERROR: Plugin 'Logger' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2014-02-14 13:40:58.923 HelloWorld[70420:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
-  "INVALID",
-  "Logger",
-  "logLevel",
-  [
-    "LOG",
-    "Channel not fired: onCordovaConnectionReady"
-  ]
-]
-2014-02-14 13:40:58.924 HelloWorld[70420:80b] ERROR: Plugin 'Logger' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2014-02-14 13:40:58.925 HelloWorld[70420:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
-  "INVALID",
-  "Logger",
-  "logLevel",
-  [
-    "LOG",
-    "Channel not fired: onCordovaInfoReady"
-  ]
-]
-2014-02-14 14:20:48.494 Simon er en kuk[71852:80b] Multi-tasking -> Device: YES, App: YES
-2014-02-14 14:20:48.524 Simon er en kuk[71852:80b] Unlimited access to network resources
-2014-02-14 14:20:48.529 Simon er en kuk[71852:80b] Fix applied for database locations?: YES
-2014-02-14 14:20:49.003 Simon er en kuk[71852:80b] Resetting plugins due to page load.
-2014-02-14 14:20:49.323 Simon er en kuk[71852:80b] Finished load of: file:///Users/Kristoffer/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/64E7396D-0841-4485-9B5E-036E57C6F388/Simon%20er%20en%20kuk.app/www/index.html#/
-2014-02-14 14:20:49.343 Simon er en kuk[71852:80b] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2014-02-14 14:20:49.344 Simon er en kuk[71852:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
-  "Device761247099",
-  "Device",
-  "getDeviceInfo",
-  [
-
-  ]
-]
-2014-02-14 14:20:49.345 Simon er en kuk[71852:80b] ERROR: Plugin 'NetworkStatus' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2014-02-14 14:20:49.346 Simon er en kuk[71852:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
-  "NetworkStatus761247100",
-  "NetworkStatus",
-  "getConnectionInfo",
-  [
-
-  ]
-]
-2014-02-14 14:20:54.262 Simon er en kuk[71852:80b] ERROR: Plugin 'Logger' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2014-02-14 14:20:54.263 Simon er en kuk[71852:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
-  "INVALID",
-  "Logger",
-  "logLevel",
-  [
-    "LOG",
-    "deviceready has not fired after 5 seconds."
-  ]
-]
-2014-02-14 14:20:54.263 Simon er en kuk[71852:80b] ERROR: Plugin 'Logger' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2014-02-14 14:20:54.264 Simon er en kuk[71852:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
-  "INVALID",
-  "Logger",
-  "logLevel",
-  [
-    "LOG",
-    "Channel not fired: onCordovaConnectionReady"
-  ]
-]
-2014-02-14 14:20:54.265 Simon er en kuk[71852:80b] ERROR: Plugin 'Logger' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2014-02-14 14:20:54.266 Simon er en kuk[71852:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
-  "INVALID",
-  "Logger",
-  "logLevel",
-  [
-    "LOG",
-    "Channel not fired: onCordovaInfoReady"
-  ]
-]
-2014-02-14 14:20:56.130 Simon er en kuk[71852:80b] ERROR: Plugin 'Accelerometer' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2014-02-14 14:20:56.130 Simon er en kuk[71852:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
-  "Accelerometer761247101",
-  "Accelerometer",
-  "start",
-  [
-
-  ]
-]
-2014-02-14 14:24:04.646 Simon er en kuk[72965:80b] Multi-tasking -> Device: YES, App: YES
-2014-02-14 14:24:04.669 Simon er en kuk[72965:80b] Unlimited access to network resources
-2014-02-14 14:24:05.076 Simon er en kuk[72965:80b] Resetting plugins due to page load.
-2014-02-14 14:24:05.374 Simon er en kuk[72965:80b] Finished load of: file:///Users/Kristoffer/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/64E7396D-0841-4485-9B5E-036E57C6F388/Simon%20er%20en%20kuk.app/www/index.html#/
-2014-02-14 14:24:05.393 Simon er en kuk[72965:80b] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2014-02-14 14:24:05.394 Simon er en kuk[72965:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
-  "Device1932431071",
-  "Device",
-  "getDeviceInfo",
-  [
-
-  ]
-]
-2014-02-14 14:24:05.394 Simon er en kuk[72965:80b] ERROR: Plugin 'NetworkStatus' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2014-02-14 14:24:05.395 Simon er en kuk[72965:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
-  "NetworkStatus1932431072",
-  "NetworkStatus",
-  "getConnectionInfo",
-  [
-
-  ]
-]
-2014-02-14 14:24:10.327 Simon er en kuk[72965:80b] ERROR: Plugin 'Logger' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2014-02-14 14:24:10.328 Simon er en kuk[72965:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
-  "INVALID",
-  "Logger",
-  "logLevel",
-  [
-    "LOG",
-    "deviceready has not fired after 5 seconds."
-  ]
-]
-2014-02-14 14:24:10.329 Simon er en kuk[72965:80b] ERROR: Plugin 'Logger' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2014-02-14 14:24:10.329 Simon er en kuk[72965:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
-  "INVALID",
-  "Logger",
-  "logLevel",
-  [
-    "LOG",
-    "Channel not fired: onCordovaConnectionReady"
-  ]
-]
-2014-02-14 14:24:10.330 Simon er en kuk[72965:80b] ERROR: Plugin 'Logger' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2014-02-14 14:24:10.331 Simon er en kuk[72965:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
-  "INVALID",
-  "Logger",
-  "logLevel",
-  [
-    "LOG",
-    "Channel not fired: onCordovaInfoReady"
-  ]
-]
-2014-02-15 14:42:56.309 Simon er en kuk[76053:80b] Multi-tasking -> Device: YES, App: YES
-2014-02-15 14:42:56.344 Simon er en kuk[76053:80b] Unlimited access to network resources
-2014-02-15 14:42:56.979 Simon er en kuk[76053:80b] Resetting plugins due to page load.
-2014-02-15 14:42:57.369 Simon er en kuk[76053:80b] Finished load of: file:///Users/Kristoffer/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/64E7396D-0841-4485-9B5E-036E57C6F388/Simon%20er%20en%20kuk.app/www/index.html#/
-2014-02-15 14:42:57.385 Simon er en kuk[76053:80b] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2014-02-15 14:42:57.387 Simon er en kuk[76053:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
-  "Device2408773",
-  "Device",
-  "getDeviceInfo",
-  [
-
-  ]
-]
-2014-02-15 14:42:57.387 Simon er en kuk[76053:80b] ERROR: Plugin 'NetworkStatus' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2014-02-15 14:42:57.388 Simon er en kuk[76053:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
-  "NetworkStatus2408774",
-  "NetworkStatus",
-  "getConnectionInfo",
-  [
-
-  ]
-]
-2014-02-15 14:43:02.311 Simon er en kuk[76053:80b] ERROR: Plugin 'Logger' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2014-02-15 14:43:02.312 Simon er en kuk[76053:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
-  "INVALID",
-  "Logger",
-  "logLevel",
-  [
-    "LOG",
-    "deviceready has not fired after 5 seconds."
-  ]
-]
-2014-02-15 14:43:02.313 Simon er en kuk[76053:80b] ERROR: Plugin 'Logger' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2014-02-15 14:43:02.313 Simon er en kuk[76053:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
-  "INVALID",
-  "Logger",
-  "logLevel",
-  [
-    "LOG",
-    "Channel not fired: onCordovaConnectionReady"
-  ]
-]
-2014-02-15 14:43:02.314 Simon er en kuk[76053:80b] ERROR: Plugin 'Logger' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2014-02-15 14:43:02.314 Simon er en kuk[76053:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
-  "INVALID",
-  "Logger",
-  "logLevel",
-  [
-    "LOG",
-    "Channel not fired: onCordovaInfoReady"
-  ]
-]
-2014-02-15 15:08:36.496 Simon er en kuk[77115:80b] Multi-tasking -> Device: YES, App: YES
-2014-02-15 15:08:36.510 Simon er en kuk[77115:80b] Unlimited access to network resources
-2014-02-15 15:08:37.013 Simon er en kuk[77115:80b] Resetting plugins due to page load.
-2014-02-15 15:08:37.318 Simon er en kuk[77115:80b] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2014-02-15 15:08:37.318 Simon er en kuk[77115:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
-  "Device855138250",
-  "Device",
-  "getDeviceInfo",
-  [
-
-  ]
-]
-2014-02-15 15:08:37.319 Simon er en kuk[77115:80b] ERROR: Plugin 'NetworkStatus' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2014-02-15 15:08:37.319 Simon er en kuk[77115:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
-  "NetworkStatus855138251",
-  "NetworkStatus",
-  "getConnectionInfo",
-  [
-
-  ]
-]
-2014-02-15 15:08:37.326 Simon er en kuk[77115:80b] Finished load of: file:///Users/Kristoffer/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/64E7396D-0841-4485-9B5E-036E57C6F388/Simon%20er%20en%20kuk.app/www/index.html#/
-2014-02-15 15:08:42.235 Simon er en kuk[77115:80b] ERROR: Plugin 'Logger' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2014-02-15 15:08:42.235 Simon er en kuk[77115:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
-  "INVALID",
-  "Logger",
-  "logLevel",
-  [
-    "LOG",
-    "deviceready has not fired after 5 seconds."
-  ]
-]
-2014-02-15 15:08:42.236 Simon er en kuk[77115:80b] ERROR: Plugin 'Logger' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2014-02-15 15:08:42.236 Simon er en kuk[77115:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
-  "INVALID",
-  "Logger",
-  "logLevel",
-  [
-    "LOG",
-    "Channel not fired: onCordovaConnectionReady"
-  ]
-]
-2014-02-15 15:08:42.237 Simon er en kuk[77115:80b] ERROR: Plugin 'Logger' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2014-02-15 15:08:42.237 Simon er en kuk[77115:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
-  "INVALID",
-  "Logger",
-  "logLevel",
-  [
-    "LOG",
-    "Channel not fired: onCordovaInfoReady"
-  ]
-]
-2014-02-15 15:15:59.348 Simon er en kuk[78224:80b] Multi-tasking -> Device: YES, App: YES
-2014-02-15 15:15:59.365 Simon er en kuk[78224:80b] Unlimited access to network resources
-2014-02-15 15:15:59.701 Simon er en kuk[78224:80b] Resetting plugins due to page load.
-2014-02-15 15:16:00.085 Simon er en kuk[78224:80b] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2014-02-15 15:16:00.086 Simon er en kuk[78224:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
-  "Device1650461108",
-  "Device",
-  "getDeviceInfo",
-  [
-
-  ]
-]
-2014-02-15 15:16:00.087 Simon er en kuk[78224:80b] ERROR: Plugin 'NetworkStatus' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2014-02-15 15:16:00.087 Simon er en kuk[78224:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
-  "NetworkStatus1650461109",
-  "NetworkStatus",
-  "getConnectionInfo",
-  [
-
-  ]
-]
-2014-02-15 15:16:00.091 Simon er en kuk[78224:80b] Finished load of: file:///Users/Kristoffer/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/64E7396D-0841-4485-9B5E-036E57C6F388/Simon%20er%20en%20kuk.app/www/index.html#/
-2014-02-15 15:16:04.981 Simon er en kuk[78224:80b] ERROR: Plugin 'Logger' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2014-02-15 15:16:04.982 Simon er en kuk[78224:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
-  "INVALID",
-  "Logger",
-  "logLevel",
-  [
-    "LOG",
-    "deviceready has not fired after 5 seconds."
-  ]
-]
-2014-02-15 15:16:04.982 Simon er en kuk[78224:80b] ERROR: Plugin 'Logger' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2014-02-15 15:16:04.983 Simon er en kuk[78224:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
-  "INVALID",
-  "Logger",
-  "logLevel",
-  [
-    "LOG",
-    "Channel not fired: onCordovaConnectionReady"
-  ]
-]
-2014-02-15 15:16:04.983 Simon er en kuk[78224:80b] ERROR: Plugin 'Logger' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2014-02-15 15:16:04.983 Simon er en kuk[78224:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
-  "INVALID",
-  "Logger",
-  "logLevel",
-  [
-    "LOG",
-    "Channel not fired: onCordovaInfoReady"
-  ]
-]
-2014-02-15 15:31:14.296 Simon har en liten tiss[79733:80b] Multi-tasking -> Device: YES, App: YES
-2014-02-15 15:31:14.308 Simon har en liten tiss[79733:80b] Unlimited access to network resources
-2014-02-15 15:31:14.312 Simon har en liten tiss[79733:80b] Fix applied for database locations?: YES
-2014-02-15 15:31:14.507 Simon har en liten tiss[79733:80b] Resetting plugins due to page load.
-2014-02-15 15:31:17.744 Simon har en liten tiss[79733:80b] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2014-02-15 15:31:17.744 Simon har en liten tiss[79733:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
-  "Device26513134",
-  "Device",
-  "getDeviceInfo",
-  [
-
-  ]
-]
-2014-02-15 15:31:17.745 Simon har en liten tiss[79733:80b] ERROR: Plugin 'NetworkStatus' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2014-02-15 15:31:17.745 Simon har en liten tiss[79733:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
-  "NetworkStatus26513135",
-  "NetworkStatus",
-  "getConnectionInfo",
-  [
-
-  ]
-]
-2014-02-15 15:31:17.749 Simon har en liten tiss[79733:80b] Finished load of: file:///Users/Kristoffer/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/6B0999B3-BD47-4D27-99E6-669E81486079/Simon%20har%20en%20liten%20tiss.app/www/index.html#/
-2014-02-15 15:31:22.674 Simon har en liten tiss[79733:80b] ERROR: Plugin 'Logger' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2014-02-15 15:31:22.674 Simon har en liten tiss[79733:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
-  "INVALID",
-  "Logger",
-  "logLevel",
-  [
-    "LOG",
-    "deviceready has not fired after 5 seconds."
-  ]
-]
-2014-02-15 15:31:22.675 Simon har en liten tiss[79733:80b] ERROR: Plugin 'Logger' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2014-02-15 15:31:22.675 Simon har en liten tiss[79733:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
-  "INVALID",
-  "Logger",
-  "logLevel",
-  [
-    "LOG",
-    "Channel not fired: onCordovaConnectionReady"
-  ]
-]
-2014-02-15 15:31:22.675 Simon har en liten tiss[79733:80b] ERROR: Plugin 'Logger' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2014-02-15 15:31:22.676 Simon har en liten tiss[79733:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
-  "INVALID",
-  "Logger",
-  "logLevel",
-  [
-    "LOG",
-    "Channel not fired: onCordovaInfoReady"
-  ]
-]
-2014-02-15 16:03:49.784 Simon har en liten tiss[81436:80b] Multi-tasking -> Device: YES, App: YES
-2014-02-15 16:03:49.817 Simon har en liten tiss[81436:80b] Unlimited access to network resources
-2014-02-15 16:03:50.450 Simon har en liten tiss[81436:80b] Resetting plugins due to page load.
-2014-02-15 16:04:04.876 Simon har en liten tiss[81436:4003] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
-2014-02-15 16:04:04.960 Simon har en liten tiss[81436:80b] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2014-02-15 16:04:04.960 Simon har en liten tiss[81436:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
-  "Device1799915316",
-  "Device",
-  "getDeviceInfo",
-  [
-
-  ]
-]
-2014-02-15 16:04:04.961 Simon har en liten tiss[81436:80b] ERROR: Plugin 'NetworkStatus' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2014-02-15 16:04:04.962 Simon har en liten tiss[81436:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
-  "NetworkStatus1799915317",
-  "NetworkStatus",
-  "getConnectionInfo",
-  [
-
-  ]
-]
-2014-02-15 16:04:04.969 Simon har en liten tiss[81436:80b] Finished load of: file:///Users/Kristoffer/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/6B0999B3-BD47-4D27-99E6-669E81486079/Simon%20har%20en%20liten%20tiss.app/www/index.html#/
-2014-02-15 16:04:09.845 Simon har en liten tiss[81436:80b] ERROR: Plugin 'Logger' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2014-02-15 16:04:09.846 Simon har en liten tiss[81436:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
-  "INVALID",
-  "Logger",
-  "logLevel",
-  [
-    "LOG",
-    "deviceready has not fired after 5 seconds."
-  ]
-]
-2014-02-15 16:04:09.847 Simon har en liten tiss[81436:80b] ERROR: Plugin 'Logger' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2014-02-15 16:04:09.848 Simon har en liten tiss[81436:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
-  "INVALID",
-  "Logger",
-  "logLevel",
-  [
-    "LOG",
-    "Channel not fired: onCordovaConnectionReady"
-  ]
-]
-2014-02-15 16:04:09.848 Simon har en liten tiss[81436:80b] ERROR: Plugin 'Logger' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2014-02-15 16:04:09.849 Simon har en liten tiss[81436:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
-  "INVALID",
-  "Logger",
-  "logLevel",
-  [
-    "LOG",
-    "Channel not fired: onCordovaInfoReady"
-  ]
-]
+2014-03-05 17:18:37.454 HelloWorld[30940:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-05 17:18:37.462 HelloWorld[30940:80b] Fix applied for database locations?: YES
+2014-03-05 17:18:37.573 HelloWorld[30940:80b] Resetting plugins due to page load.
+2014-03-05 17:18:37.619 HelloWorld[30940:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/05AAD7AB-DC47-4D9B-8B77-4F6EDFE93BD2/HelloWorld.app/www/index.html
+2014-03-05 17:23:39.266 HelloWorld[31478:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-05 17:23:39.380 HelloWorld[31478:80b] Resetting plugins due to page load.
+2014-03-05 17:23:39.428 HelloWorld[31478:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/05AAD7AB-DC47-4D9B-8B77-4F6EDFE93BD2/HelloWorld.app/www/index.html
+2014-03-05 17:25:53.957 HelloWorld[31949:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-05 17:25:54.081 HelloWorld[31949:80b] Resetting plugins due to page load.
+2014-03-05 17:25:54.130 HelloWorld[31949:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/05AAD7AB-DC47-4D9B-8B77-4F6EDFE93BD2/HelloWorld.app/www/index.html
+2014-03-05 17:30:58.741 Ping[32457:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-05 17:30:58.748 Ping[32457:80b] Fix applied for database locations?: YES
+2014-03-05 17:30:58.832 Ping[32457:80b] Resetting plugins due to page load.
+2014-03-05 17:30:58.876 Ping[32457:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html
+2014-03-05 17:44:27.223 Ping[33204:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-05 17:44:27.335 Ping[33204:80b] Resetting plugins due to page load.
+2014-03-05 17:44:27.514 Ping[33204:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html
+2014-03-05 17:45:53.599 Ping[33771:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-05 17:45:53.703 Ping[33771:80b] Resetting plugins due to page load.
+2014-03-05 17:45:53.879 Ping[33771:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html
+2014-03-05 17:50:29.737 Ping[34342:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-05 17:50:29.843 Ping[34342:80b] Resetting plugins due to page load.
+2014-03-05 17:50:30.025 Ping[34342:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html
+2014-03-05 17:51:29.524 Ping[34909:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-05 17:51:29.625 Ping[34909:80b] Resetting plugins due to page load.
+2014-03-05 17:51:29.793 Ping[34909:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html
+2014-03-05 17:57:53.614 Ping[35502:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-05 17:57:53.709 Ping[35502:80b] Resetting plugins due to page load.
+2014-03-05 17:57:53.879 Ping[35502:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html
+2014-03-05 18:00:53.669 Ping[36081:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-05 18:00:53.776 Ping[36081:80b] Resetting plugins due to page load.
+2014-03-05 18:00:53.950 Ping[36081:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html
+2014-03-05 18:02:15.816 Ping[36081:80b] Received memory warning.
+2014-03-05 18:02:33.678 Ping[36516:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-05 18:02:33.769 Ping[36516:80b] Resetting plugins due to page load.
+2014-03-05 18:02:33.950 Ping[36516:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html
+2014-03-05 18:23:45.387 Ping[37018:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-05 18:23:45.490 Ping[37018:80b] Resetting plugins due to page load.
+2014-03-05 18:23:45.633 Ping[37018:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3-64/Applications/25E1A3E2-E466-49F3-95D2-EB0CE4C155DE/Ping.app/www/index.html
+2014-03-05 18:24:06.003 Ping[37412:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-05 18:24:06.109 Ping[37412:80b] Resetting plugins due to page load.
+2014-03-05 18:24:06.261 Ping[37412:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3-64/Applications/25E1A3E2-E466-49F3-95D2-EB0CE4C155DE/Ping.app/www/index.html
+2014-03-05 18:25:12.867 Ping[37412:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-03-05 18:25:45.773 Ping[37808:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-05 18:25:45.874 Ping[37808:80b] Resetting plugins due to page load.
+2014-03-05 18:25:46.023 Ping[37808:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3-64/Applications/25E1A3E2-E466-49F3-95D2-EB0CE4C155DE/Ping.app/www/index.html
+2014-03-05 18:29:47.875 Ping[37808:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-03-05 18:44:24.513 Ping[38518:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-05 18:44:24.626 Ping[38518:80b] Resetting plugins due to page load.
+2014-03-05 18:44:24.771 Ping[38518:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3-64/Applications/25E1A3E2-E466-49F3-95D2-EB0CE4C155DE/Ping.app/www/index.html
+2014-03-05 18:48:00.934 Ping[39105:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-05 18:48:01.032 Ping[39105:80b] Resetting plugins due to page load.
+2014-03-05 18:48:01.178 Ping[39105:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3-64/Applications/25E1A3E2-E466-49F3-95D2-EB0CE4C155DE/Ping.app/www/index.html
+2014-03-05 18:49:11.743 Ping[39674:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-05 18:49:11.852 Ping[39674:80b] Resetting plugins due to page load.
+2014-03-05 18:49:12.003 Ping[39674:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3-64/Applications/25E1A3E2-E466-49F3-95D2-EB0CE4C155DE/Ping.app/www/index.html
+2014-03-05 18:54:50.518 Ping[40263:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-05 18:54:50.620 Ping[40263:80b] Resetting plugins due to page load.
+2014-03-05 18:54:50.777 Ping[40263:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3-64/Applications/25E1A3E2-E466-49F3-95D2-EB0CE4C155DE/Ping.app/www/index.html
+2014-03-05 18:57:03.067 Ping[40839:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-05 18:57:03.178 Ping[40839:80b] Resetting plugins due to page load.
+2014-03-05 18:57:03.328 Ping[40839:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3-64/Applications/25E1A3E2-E466-49F3-95D2-EB0CE4C155DE/Ping.app/www/index.html
+2014-03-05 19:01:03.393 Ping[41428:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-05 19:01:03.498 Ping[41428:80b] Resetting plugins due to page load.
+2014-03-05 19:01:03.648 Ping[41428:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3-64/Applications/25E1A3E2-E466-49F3-95D2-EB0CE4C155DE/Ping.app/www/index.html
+2014-03-05 19:16:16.340 Ping[42046:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-05 19:16:16.480 Ping[42046:80b] Resetting plugins due to page load.
+2014-03-05 19:16:16.606 Ping[42046:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3-64/Applications/25E1A3E2-E466-49F3-95D2-EB0CE4C155DE/Ping.app/www/index.html
+2014-03-05 19:19:03.187 Ping[42623:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-05 19:19:03.311 Ping[42623:80b] Resetting plugins due to page load.
+2014-03-05 19:19:03.466 Ping[42623:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3-64/Applications/25E1A3E2-E466-49F3-95D2-EB0CE4C155DE/Ping.app/www/index.html
+2014-03-05 19:21:32.824 Ping[43200:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-05 19:21:32.938 Ping[43200:80b] Resetting plugins due to page load.
+2014-03-05 19:21:33.075 Ping[43200:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3-64/Applications/25E1A3E2-E466-49F3-95D2-EB0CE4C155DE/Ping.app/www/index.html
+2014-03-05 19:54:20.006 Ping[43864:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-05 19:54:20.168 Ping[43864:80b] Resetting plugins due to page load.
+2014-03-05 19:54:20.334 Ping[43864:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3-64/Applications/25E1A3E2-E466-49F3-95D2-EB0CE4C155DE/Ping.app/www/index.html
+2014-03-05 19:56:46.961 Ping[44445:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-05 19:56:47.070 Ping[44445:80b] Resetting plugins due to page load.
+2014-03-05 19:56:47.229 Ping[44445:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3-64/Applications/25E1A3E2-E466-49F3-95D2-EB0CE4C155DE/Ping.app/www/index.html
+2014-03-05 20:01:22.379 Ping[45034:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-05 20:01:22.512 Ping[45034:80b] Resetting plugins due to page load.
+2014-03-05 20:01:22.662 Ping[45034:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3-64/Applications/25E1A3E2-E466-49F3-95D2-EB0CE4C155DE/Ping.app/www/index.html
+2014-03-05 20:06:47.935 Ping[45620:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-05 20:06:48.039 Ping[45620:80b] Resetting plugins due to page load.
+2014-03-05 20:06:48.222 Ping[45620:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3-64/Applications/25E1A3E2-E466-49F3-95D2-EB0CE4C155DE/Ping.app/www/index.html
+2014-03-05 20:09:19.375 Ping[46204:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-05 20:09:19.525 Ping[46204:80b] Resetting plugins due to page load.
+2014-03-05 20:09:19.675 Ping[46204:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3-64/Applications/25E1A3E2-E466-49F3-95D2-EB0CE4C155DE/Ping.app/www/index.html
+2014-03-05 20:27:52.899 Ping[46824:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-05 20:27:53.028 Ping[46824:80b] Resetting plugins due to page load.
+2014-03-05 20:27:53.162 Ping[46824:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3-64/Applications/25E1A3E2-E466-49F3-95D2-EB0CE4C155DE/Ping.app/www/index.html
+2014-03-05 20:37:43.734 Ping[47423:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-05 20:37:43.952 Ping[47423:80b] Resetting plugins due to page load.
+2014-03-05 20:37:44.105 Ping[47423:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3-64/Applications/25E1A3E2-E466-49F3-95D2-EB0CE4C155DE/Ping.app/www/index.html
+2014-03-05 20:39:19.053 Ping[48002:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-05 20:39:19.155 Ping[48002:80b] Resetting plugins due to page load.
+2014-03-05 20:39:19.298 Ping[48002:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3-64/Applications/25E1A3E2-E466-49F3-95D2-EB0CE4C155DE/Ping.app/www/index.html
+2014-03-05 20:39:51.693 Ping[48576:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-05 20:39:51.808 Ping[48576:80b] Resetting plugins due to page load.
+2014-03-05 20:39:51.946 Ping[48576:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3-64/Applications/25E1A3E2-E466-49F3-95D2-EB0CE4C155DE/Ping.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-03-06 13:26:31.802 Ping[50389:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 13:26:32.209 Ping[50389:80b] Resetting plugins due to page load.
+2014-03-06 13:26:32.450 Ping[50389:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html
+2014-03-06 13:31:59.258 Ping[50976:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 13:31:59.374 Ping[50976:80b] Resetting plugins due to page load.
+2014-03-06 13:31:59.558 Ping[50976:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html
+2014-03-06 13:37:01.719 Ping[51560:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 13:37:01.828 Ping[51560:80b] Resetting plugins due to page load.
+2014-03-06 13:37:01.996 Ping[51560:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html
+2014-03-06 13:43:40.758 Ping[52152:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 13:43:40.870 Ping[52152:80b] Resetting plugins due to page load.
+2014-03-06 13:43:41.036 Ping[52152:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html
+2014-03-06 13:45:15.807 Ping[52733:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 13:45:15.914 Ping[52733:80b] Resetting plugins due to page load.
+2014-03-06 13:45:16.088 Ping[52733:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html
+2014-03-06 13:46:28.730 Ping[53308:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 13:46:28.831 Ping[53308:80b] Resetting plugins due to page load.
+2014-03-06 13:46:29.007 Ping[53308:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html
+2014-03-06 13:47:58.157 Ping[53889:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 13:47:58.268 Ping[53889:80b] Resetting plugins due to page load.
+2014-03-06 13:47:58.450 Ping[53889:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html
+2014-03-06 13:48:37.761 Ping[54463:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 13:48:37.886 Ping[54463:80b] Resetting plugins due to page load.
+2014-03-06 13:48:38.064 Ping[54463:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html
+2014-03-06 13:59:50.381 Ping[55068:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 13:59:50.499 Ping[55068:80b] Resetting plugins due to page load.
+2014-03-06 13:59:50.679 Ping[55068:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html
+2014-03-06 14:02:40.219 Ping[55647:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 14:02:40.328 Ping[55647:80b] Resetting plugins due to page load.
+2014-03-06 14:02:40.512 Ping[55647:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html
+2014-03-06 14:05:57.905 Ping[56230:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 14:05:58.012 Ping[56230:80b] Resetting plugins due to page load.
+2014-03-06 14:05:58.202 Ping[56230:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html
+2014-03-06 14:09:03.498 Ping[56815:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 14:09:03.869 Ping[56815:80b] Resetting plugins due to page load.
+2014-03-06 14:09:04.328 Ping[56815:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html
+2014-03-06 14:16:26.239 Ping[57467:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 14:16:26.335 Ping[57467:80b] Resetting plugins due to page load.
+2014-03-06 14:16:26.494 Ping[57467:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html
+2014-03-06 14:18:26.090 Ping[58046:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 14:18:26.191 Ping[58046:80b] Resetting plugins due to page load.
+2014-03-06 14:18:26.362 Ping[58046:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html
+2014-03-06 14:21:13.913 Ping[58629:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 14:21:14.112 Ping[58629:80b] Resetting plugins due to page load.
+2014-03-06 14:21:14.274 Ping[58629:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html
+2014-03-06 14:22:49.350 Ping[59208:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 14:22:49.469 Ping[59208:80b] Resetting plugins due to page load.
+2014-03-06 14:22:49.641 Ping[59208:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html
+2014-03-06 14:24:57.568 Ping[59787:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 14:24:57.684 Ping[59787:80b] Resetting plugins due to page load.
+2014-03-06 14:24:57.851 Ping[59787:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html
+2014-03-06 14:33:16.149 Ping[60408:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 14:33:16.247 Ping[60408:80b] Resetting plugins due to page load.
+2014-03-06 14:33:16.415 Ping[60408:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html
+2014-03-06 14:37:08.392 Ping[61013:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 14:37:08.503 Ping[61013:80b] Resetting plugins due to page load.
+2014-03-06 14:37:08.682 Ping[61013:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html
+2014-03-06 16:47:05.863 Ping[61785:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 16:47:05.964 Ping[61785:80b] Resetting plugins due to page load.
+2014-03-06 16:47:06.175 Ping[61785:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html
+2014-03-06 17:01:22.125 Ping[62420:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 17:01:22.150 Ping[62420:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-06 17:01:22.151 Ping[62420:80b] [CDVTimer][statusbar] 0.409961ms
+2014-03-06 17:01:22.151 Ping[62420:80b] [CDVTimer][TotalPluginStartup] 0.738978ms
+2014-03-06 17:01:22.240 Ping[62420:80b] Resetting plugins due to page load.
+2014-03-06 17:01:22.463 Ping[62420:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html
+2014-03-06 17:18:33.362 Ping[63144:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 17:18:33.389 Ping[63144:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-06 17:18:33.390 Ping[63144:80b] [CDVTimer][statusbar] 0.428975ms
+2014-03-06 17:18:33.390 Ping[63144:80b] [CDVTimer][TotalPluginStartup] 0.786006ms
+2014-03-06 17:18:33.478 Ping[63144:80b] Resetting plugins due to page load.
+2014-03-06 17:18:33.653 Ping[63144:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html
+2014-03-06 17:25:48.277 Ping[63755:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 17:25:48.304 Ping[63755:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-06 17:25:48.305 Ping[63755:80b] [CDVTimer][statusbar] 0.537038ms
+2014-03-06 17:25:48.305 Ping[63755:80b] [CDVTimer][TotalPluginStartup] 0.966966ms
+2014-03-06 17:25:48.391 Ping[63755:80b] Resetting plugins due to page load.
+2014-03-06 17:25:48.564 Ping[63755:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html
+2014-03-06 17:55:59.155 Ping[64425:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 17:55:59.178 Ping[64425:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-06 17:55:59.178 Ping[64425:80b] [CDVTimer][statusbar] 0.431955ms
+2014-03-06 17:55:59.179 Ping[64425:80b] [CDVTimer][TotalPluginStartup] 0.768006ms
+2014-03-06 17:55:59.257 Ping[64425:80b] Resetting plugins due to page load.
+2014-03-06 17:55:59.348 Ping[64425:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html
+2014-03-06 18:04:29.069 Ping[65052:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 18:04:29.091 Ping[65052:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-06 18:04:29.092 Ping[65052:80b] [CDVTimer][statusbar] 0.515997ms
+2014-03-06 18:04:29.092 Ping[65052:80b] [CDVTimer][TotalPluginStartup] 0.918031ms
+2014-03-06 18:04:29.178 Ping[65052:80b] Resetting plugins due to page load.
+2014-03-06 18:04:29.344 Ping[65052:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-06 18:06:12.451 Ping[65837:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 18:06:12.474 Ping[65837:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-06 18:06:12.474 Ping[65837:80b] [CDVTimer][statusbar] 0.405967ms
+2014-03-06 18:06:12.475 Ping[65837:80b] [CDVTimer][TotalPluginStartup] 0.756979ms
+2014-03-06 18:06:12.559 Ping[65837:80b] Resetting plugins due to page load.
+2014-03-06 18:06:12.687 Ping[65837:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html
+2014-03-06 18:07:18.738 Ping[66257:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 18:07:18.766 Ping[66257:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-06 18:07:18.767 Ping[66257:80b] [CDVTimer][statusbar] 0.411034ms
+2014-03-06 18:07:18.767 Ping[66257:80b] [CDVTimer][TotalPluginStartup] 0.764966ms
+2014-03-06 18:07:18.852 Ping[66257:80b] Resetting plugins due to page load.
+2014-03-06 18:07:18.986 Ping[66257:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html
+2014-03-06 18:08:08.379 Ping[66855:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 18:08:08.403 Ping[66855:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-06 18:08:08.403 Ping[66855:80b] [CDVTimer][statusbar] 0.454009ms
+2014-03-06 18:08:08.404 Ping[66855:80b] [CDVTimer][TotalPluginStartup] 0.822008ms
+2014-03-06 18:08:08.487 Ping[66855:80b] Resetting plugins due to page load.
+2014-03-06 18:08:08.643 Ping[66855:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-06 18:14:58.676 Ping[67472:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 18:14:58.703 Ping[67472:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-06 18:14:58.703 Ping[67472:80b] [CDVTimer][statusbar] 0.829041ms
+2014-03-06 18:14:58.704 Ping[67472:80b] [CDVTimer][TotalPluginStartup] 1.305997ms
+2014-03-06 18:14:58.803 Ping[67472:80b] Resetting plugins due to page load.
+2014-03-06 18:14:58.930 Ping[67472:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html
+2014-03-06 18:15:45.130 Ping[68070:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 18:15:45.157 Ping[68070:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-06 18:15:45.158 Ping[68070:80b] [CDVTimer][statusbar] 0.452042ms
+2014-03-06 18:15:45.158 Ping[68070:80b] [CDVTimer][TotalPluginStartup] 0.771999ms
+2014-03-06 18:15:45.244 Ping[68070:80b] Resetting plugins due to page load.
+2014-03-06 18:15:45.409 Ping[68070:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-06 18:30:03.154 Ping[68711:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 18:30:03.179 Ping[68711:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-06 18:30:03.179 Ping[68711:80b] [CDVTimer][statusbar] 0.512004ms
+2014-03-06 18:30:03.180 Ping[68711:80b] [CDVTimer][TotalPluginStartup] 0.925004ms
+2014-03-06 18:30:03.263 Ping[68711:80b] Resetting plugins due to page load.
+2014-03-06 18:30:03.358 Ping[68711:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-06 18:31:41.588 Ping[69544:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 18:31:41.609 Ping[69544:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-06 18:31:41.610 Ping[69544:80b] [CDVTimer][statusbar] 0.453055ms
+2014-03-06 18:31:41.610 Ping[69544:80b] [CDVTimer][TotalPluginStartup] 0.838995ms
+2014-03-06 18:31:41.682 Ping[69544:80b] Resetting plugins due to page load.
+2014-03-06 18:31:41.768 Ping[69544:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-06 18:34:24.687 Ping[70149:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 18:34:24.710 Ping[70149:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-06 18:34:24.710 Ping[70149:80b] [CDVTimer][statusbar] 0.434995ms
+2014-03-06 18:34:24.710 Ping[70149:80b] [CDVTimer][TotalPluginStartup] 0.813007ms
+2014-03-06 18:34:24.796 Ping[70149:80b] Resetting plugins due to page load.
+2014-03-06 18:34:24.903 Ping[70149:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-06 18:50:30.916 Ping[70866:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 18:50:30.938 Ping[70866:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-06 18:50:30.938 Ping[70866:80b] [CDVTimer][statusbar] 0.428021ms
+2014-03-06 18:50:30.938 Ping[70866:80b] [CDVTimer][TotalPluginStartup] 0.769973ms
+2014-03-06 18:50:31.026 Ping[70866:80b] Resetting plugins due to page load.
+2014-03-06 18:50:31.138 Ping[70866:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-06 18:53:18.278 Ping[71469:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 18:53:18.304 Ping[71469:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-06 18:53:18.304 Ping[71469:80b] [CDVTimer][statusbar] 0.545025ms
+2014-03-06 18:53:18.305 Ping[71469:80b] [CDVTimer][TotalPluginStartup] 0.940025ms
+2014-03-06 18:53:18.388 Ping[71469:80b] Resetting plugins due to page load.
+2014-03-06 18:53:18.483 Ping[71469:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-06 18:59:44.215 Ping[72082:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 18:59:44.241 Ping[72082:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-06 18:59:44.242 Ping[72082:80b] [CDVTimer][statusbar] 0.497043ms
+2014-03-06 18:59:44.242 Ping[72082:80b] [CDVTimer][TotalPluginStartup] 0.864983ms
+2014-03-06 18:59:44.336 Ping[72082:80b] Resetting plugins due to page load.
+2014-03-06 18:59:44.449 Ping[72082:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-06 19:00:57.324 Ping[72685:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 19:00:57.348 Ping[72685:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-06 19:00:57.349 Ping[72685:80b] [CDVTimer][statusbar] 0.544965ms
+2014-03-06 19:00:57.349 Ping[72685:80b] [CDVTimer][TotalPluginStartup] 1.054943ms
+2014-03-06 19:00:57.442 Ping[72685:80b] Resetting plugins due to page load.
+2014-03-06 19:00:57.543 Ping[72685:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-06 19:03:38.562 Ping[73293:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 19:03:38.592 Ping[73293:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-06 19:03:38.592 Ping[73293:80b] [CDVTimer][statusbar] 0.661969ms
+2014-03-06 19:03:38.593 Ping[73293:80b] [CDVTimer][TotalPluginStartup] 1.048028ms
+2014-03-06 19:03:38.733 Ping[73293:80b] Resetting plugins due to page load.
+2014-03-06 19:03:38.872 Ping[73293:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-06 19:05:35.934 Ping[73895:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 19:05:35.958 Ping[73895:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-06 19:05:35.959 Ping[73895:80b] [CDVTimer][statusbar] 0.438988ms
+2014-03-06 19:05:35.959 Ping[73895:80b] [CDVTimer][TotalPluginStartup] 0.891984ms
+2014-03-06 19:05:36.037 Ping[73895:80b] Resetting plugins due to page load.
+2014-03-06 19:05:36.136 Ping[73895:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-06 19:13:17.376 Ping[74510:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 19:13:17.401 Ping[74510:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-06 19:13:17.401 Ping[74510:80b] [CDVTimer][statusbar] 0.413001ms
+2014-03-06 19:13:17.401 Ping[74510:80b] [CDVTimer][TotalPluginStartup] 0.778019ms
+2014-03-06 19:13:17.490 Ping[74510:80b] Resetting plugins due to page load.
+2014-03-06 19:13:17.594 Ping[74510:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-06 19:15:01.205 Ping[75110:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-06 19:15:01.230 Ping[75110:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-06 19:15:01.231 Ping[75110:80b] [CDVTimer][statusbar] 0.434995ms
+2014-03-06 19:15:01.231 Ping[75110:80b] [CDVTimer][TotalPluginStartup] 0.787973ms
+2014-03-06 19:15:01.336 Ping[75110:80b] Resetting plugins due to page load.
+2014-03-06 19:15:01.440 Ping[75110:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-07 19:13:46.183 Ping[86157:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-07 19:13:46.207 Ping[86157:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-07 19:13:46.207 Ping[86157:80b] [CDVTimer][statusbar] 0.487983ms
+2014-03-07 19:13:46.208 Ping[86157:80b] [CDVTimer][TotalPluginStartup] 0.859976ms
+2014-03-07 19:13:46.213 Ping[86157:4917] 19:13:46.213 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 19:13:46.310 Ping[86157:80b] Resetting plugins due to page load.
+2014-03-07 19:13:46.422 Ping[86157:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-07 19:13:52.968 Ping[86157:260b] 19:13:52.968 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-07 19:23:51.641 Ping[86783:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-07 19:23:51.664 Ping[86783:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-07 19:23:51.664 Ping[86783:80b] [CDVTimer][statusbar] 0.414968ms
+2014-03-07 19:23:51.664 Ping[86783:80b] [CDVTimer][TotalPluginStartup] 0.802040ms
+2014-03-07 19:23:51.669 Ping[86783:4917] 19:23:51.669 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 19:23:51.758 Ping[86783:80b] Resetting plugins due to page load.
+2014-03-07 19:23:51.864 Ping[86783:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-07 19:30:21.351 Ping[87405:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-07 19:30:21.374 Ping[87405:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-07 19:30:21.374 Ping[87405:80b] [CDVTimer][statusbar] 0.434995ms
+2014-03-07 19:30:21.375 Ping[87405:80b] [CDVTimer][TotalPluginStartup] 0.813961ms
+2014-03-07 19:30:21.379 Ping[87405:4917] 19:30:21.378 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 19:30:21.471 Ping[87405:80b] Resetting plugins due to page load.
+2014-03-07 19:30:21.566 Ping[87405:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-07 19:37:40.335 Ping[88029:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-07 19:37:40.362 Ping[88029:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-07 19:37:40.362 Ping[88029:80b] [CDVTimer][statusbar] 0.475049ms
+2014-03-07 19:37:40.363 Ping[88029:80b] [CDVTimer][TotalPluginStartup] 0.904977ms
+2014-03-07 19:37:40.368 Ping[88029:4917] 19:37:40.368 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 19:37:40.459 Ping[88029:80b] Resetting plugins due to page load.
+2014-03-07 19:37:40.566 Ping[88029:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-07 19:38:30.162 Ping[88631:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-07 19:38:30.189 Ping[88631:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-07 19:38:30.190 Ping[88631:80b] [CDVTimer][statusbar] 0.435054ms
+2014-03-07 19:38:30.190 Ping[88631:80b] [CDVTimer][TotalPluginStartup] 0.809014ms
+2014-03-07 19:38:30.195 Ping[88631:4917] 19:38:30.195 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 19:38:30.283 Ping[88631:80b] Resetting plugins due to page load.
+2014-03-07 19:38:30.378 Ping[88631:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-07 20:04:01.984 Ping[88631:2b4b] 20:04:01.984 WARNING:   235: Default audio device changed. Restart the simulator to have it use the newly-selected device.
+2014-03-07 20:04:01.985 Ping[88631:90af] 20:04:01.985 WARNING:   235: Default audio device changed. Restart the simulator to have it use the newly-selected device.
+2014-03-07 20:12:54.560 Ping[88631:2c1f] 20:12:54.560 WARNING:   235: Default audio device changed. Restart the simulator to have it use the newly-selected device.
+2014-03-07 20:12:54.561 Ping[88631:b9fb] 20:12:54.561 WARNING:   235: Default audio device changed. Restart the simulator to have it use the newly-selected device.
+2014-03-07 20:12:57.452 Ping[88631:80b] Received memory warning.
+2014-03-07 20:15:09.067 Ping[90252:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-07 20:15:09.089 Ping[90252:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-07 20:15:09.090 Ping[90252:80b] [CDVTimer][statusbar] 0.391006ms
+2014-03-07 20:15:09.090 Ping[90252:80b] [CDVTimer][TotalPluginStartup] 0.710011ms
+2014-03-07 20:15:09.095 Ping[90252:4917] 20:15:09.095 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 20:15:09.166 Ping[90252:80b] Resetting plugins due to page load.
+2014-03-07 20:15:09.248 Ping[90252:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-07 20:17:51.961 Ping[90863:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-07 20:17:51.985 Ping[90863:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-07 20:17:51.986 Ping[90863:80b] [CDVTimer][statusbar] 0.505984ms
+2014-03-07 20:17:51.986 Ping[90863:80b] [CDVTimer][TotalPluginStartup] 0.900984ms
+2014-03-07 20:17:51.991 Ping[90863:4917] 20:17:51.991 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 20:17:52.076 Ping[90863:80b] Resetting plugins due to page load.
+2014-03-07 20:17:52.180 Ping[90863:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-07 20:20:52.088 Ping[91473:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-07 20:20:52.112 Ping[91473:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-07 20:20:52.112 Ping[91473:80b] [CDVTimer][statusbar] 0.521004ms
+2014-03-07 20:20:52.113 Ping[91473:80b] [CDVTimer][TotalPluginStartup] 1.159966ms
+2014-03-07 20:20:52.117 Ping[91473:4917] 20:20:52.117 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 20:20:52.211 Ping[91473:80b] Resetting plugins due to page load.
+2014-03-07 20:20:52.318 Ping[91473:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-07 20:22:25.152 Ping[92079:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-07 20:22:25.174 Ping[92079:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-07 20:22:25.174 Ping[92079:80b] [CDVTimer][statusbar] 0.431001ms
+2014-03-07 20:22:25.175 Ping[92079:80b] [CDVTimer][TotalPluginStartup] 0.828981ms
+2014-03-07 20:22:25.179 Ping[92079:4917] 20:22:25.179 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 20:22:25.267 Ping[92079:80b] Resetting plugins due to page load.
+2014-03-07 20:22:25.377 Ping[92079:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-07 20:30:56.668 Ping[92712:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-07 20:30:56.823 Ping[92712:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-07 20:30:56.824 Ping[92712:80b] [CDVTimer][statusbar] 0.492990ms
+2014-03-07 20:30:56.824 Ping[92712:80b] [CDVTimer][TotalPluginStartup] 0.872970ms
+2014-03-07 20:30:56.834 Ping[92712:4a17] 20:30:56.834 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 20:30:56.980 Ping[92712:80b] Resetting plugins due to page load.
+2014-03-07 20:30:57.179 Ping[92712:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-07 20:31:03.750 Ping[92712:1203] 20:31:03.750 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-07 20:31:07.030 Ping[92712:80b] -[CDVInvokedUrlCommand copyWithZone:]: unrecognized selector sent to instance 0xa63afe0
+2014-03-07 20:31:07.032 Ping[92712:80b] *** WebKit discarded an uncaught exception in the webView:decidePolicyForNavigationAction:request:frame:decisionListener: delegate: <NSInvalidArgumentException> -[CDVInvokedUrlCommand copyWithZone:]: unrecognized selector sent to instance 0xa63afe0
+2014-03-07 20:31:09.321 Ping[92712:80b] -[CDVInvokedUrlCommand copyWithZone:]: unrecognized selector sent to instance 0xaa976a0
+2014-03-07 20:31:09.321 Ping[92712:80b] *** WebKit discarded an uncaught exception in the webView:decidePolicyForNavigationAction:request:frame:decisionListener: delegate: <NSInvalidArgumentException> -[CDVInvokedUrlCommand copyWithZone:]: unrecognized selector sent to instance 0xaa976a0
+2014-03-07 20:31:10.981 Ping[92712:80b] -[CDVInvokedUrlCommand copyWithZone:]: unrecognized selector sent to instance 0xaaa5bd0
+2014-03-07 20:31:10.982 Ping[92712:80b] *** WebKit discarded an uncaught exception in the webView:decidePolicyForNavigationAction:request:frame:decisionListener: delegate: <NSInvalidArgumentException> -[CDVInvokedUrlCommand copyWithZone:]: unrecognized selector sent to instance 0xaaa5bd0
+2014-03-07 20:31:12.223 Ping[92712:80b] -[CDVInvokedUrlCommand copyWithZone:]: unrecognized selector sent to instance 0xa762d60
+2014-03-07 20:31:12.224 Ping[92712:80b] *** WebKit discarded an uncaught exception in the webView:decidePolicyForNavigationAction:request:frame:decisionListener: delegate: <NSInvalidArgumentException> -[CDVInvokedUrlCommand copyWithZone:]: unrecognized selector sent to instance 0xa762d60
+2014-03-07 20:41:58.666 Ping[93336:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-07 20:41:58.691 Ping[93336:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-07 20:41:58.691 Ping[93336:80b] [CDVTimer][statusbar] 0.438988ms
+2014-03-07 20:41:58.691 Ping[93336:80b] [CDVTimer][TotalPluginStartup] 0.788987ms
+2014-03-07 20:41:58.695 Ping[93336:4917] 20:41:58.695 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 20:41:58.773 Ping[93336:80b] Resetting plugins due to page load.
+2014-03-07 20:41:58.875 Ping[93336:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-07 20:42:06.652 Ping[93336:80b] -[CDVInvokedUrlCommand copyWithZone:]: unrecognized selector sent to instance 0xa7a0f30
+2014-03-07 20:42:06.653 Ping[93336:80b] *** WebKit discarded an uncaught exception in the webView:decidePolicyForNavigationAction:request:frame:decisionListener: delegate: <NSInvalidArgumentException> -[CDVInvokedUrlCommand copyWithZone:]: unrecognized selector sent to instance 0xa7a0f30
+2014-03-07 20:42:07.951 Ping[93336:80b] -[CDVInvokedUrlCommand copyWithZone:]: unrecognized selector sent to instance 0xa582930
+2014-03-07 20:42:07.951 Ping[93336:80b] *** WebKit discarded an uncaught exception in the webView:decidePolicyForNavigationAction:request:frame:decisionListener: delegate: <NSInvalidArgumentException> -[CDVInvokedUrlCommand copyWithZone:]: unrecognized selector sent to instance 0xa582930
+2014-03-07 20:42:10.058 Ping[93336:80b] -[CDVInvokedUrlCommand copyWithZone:]: unrecognized selector sent to instance 0xa9b41f0
+2014-03-07 20:42:10.058 Ping[93336:80b] *** WebKit discarded an uncaught exception in the webView:decidePolicyForNavigationAction:request:frame:decisionListener: delegate: <NSInvalidArgumentException> -[CDVInvokedUrlCommand copyWithZone:]: unrecognized selector sent to instance 0xa9b41f0
+2014-03-07 20:42:11.636 Ping[93336:80b] -[CDVInvokedUrlCommand copyWithZone:]: unrecognized selector sent to instance 0xa7c3a60
+2014-03-07 20:42:11.637 Ping[93336:80b] *** WebKit discarded an uncaught exception in the webView:decidePolicyForNavigationAction:request:frame:decisionListener: delegate: <NSInvalidArgumentException> -[CDVInvokedUrlCommand copyWithZone:]: unrecognized selector sent to instance 0xa7c3a60
+2014-03-07 20:46:15.083 Ping[93336:80b] Received memory warning.
+2014-03-07 21:07:50.608 Ping[94763:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-07 21:07:50.631 Ping[94763:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-07 21:07:50.631 Ping[94763:80b] [CDVTimer][statusbar] 0.441968ms
+2014-03-07 21:07:50.631 Ping[94763:80b] [CDVTimer][TotalPluginStartup] 0.820994ms
+2014-03-07 21:07:50.636 Ping[94763:4917] 21:07:50.636 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:07:50.719 Ping[94763:80b] Resetting plugins due to page load.
+2014-03-07 21:07:50.818 Ping[94763:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-07 21:08:00.499 Ping[94763:417] 21:08:00.499 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:08:01.951 Ping[94763:1203] 21:08:01.951 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-07 21:08:44.847 Ping[95365:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-07 21:08:44.871 Ping[95365:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-07 21:08:44.872 Ping[95365:80b] [CDVTimer][statusbar] 0.434995ms
+2014-03-07 21:08:44.872 Ping[95365:80b] [CDVTimer][TotalPluginStartup] 0.783980ms
+2014-03-07 21:08:44.876 Ping[95365:4a17] 21:08:44.876 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:08:44.969 Ping[95365:80b] Resetting plugins due to page load.
+2014-03-07 21:08:45.075 Ping[95365:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-07 21:09:14.027 Ping[95365:1317] 21:09:14.027 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:09:18.187 Ping[95365:4b17] 21:09:18.187 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-07 21:09:19.038 Ping[95365:9b07] 21:09:19.038 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:09:23.213 Ping[95365:4b17] 21:09:23.213 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-07 21:09:24.712 Ping[95365:2d0b] 21:09:24.712 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:09:29.795 Ping[95365:ba0f] 21:09:29.795 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:09:33.929 Ping[95365:4b17] 21:09:33.929 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-07 21:10:27.800 Ping[95976:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-07 21:10:27.827 Ping[95976:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-07 21:10:27.828 Ping[95976:80b] [CDVTimer][statusbar] 0.492990ms
+2014-03-07 21:10:27.828 Ping[95976:80b] [CDVTimer][TotalPluginStartup] 0.881970ms
+2014-03-07 21:10:27.833 Ping[95976:4917] 21:10:27.833 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:10:27.917 Ping[95976:80b] Resetting plugins due to page load.
+2014-03-07 21:10:28.019 Ping[95976:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-07 21:10:42.419 Ping[95976:4113] 21:10:42.419 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:10:43.451 Ping[95976:1203] 21:10:43.451 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-07 21:10:44.049 Ping[95976:b60b] 21:10:44.049 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:10:45.812 Ping[95976:ba07] 21:10:45.812 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:10:47.050 Ping[95976:1203] 21:10:47.050 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-07 21:12:06.420 Ping[95976:8f0f] 21:12:06.420 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:12:08.616 Ping[95976:bf13] 21:12:08.616 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:12:10.552 Ping[95976:b917] 21:12:10.552 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:12:14.476 Ping[95976:2b1b] 21:12:14.476 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:12:19.398 Ping[95976:2e13] 21:12:19.398 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:12:20.974 Ping[95976:e903] 21:12:20.974 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:12:24.123 Ping[95976:dc0f] 21:12:24.123 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:12:25.356 Ping[95976:c807] 21:12:25.356 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-07 21:12:25.453 Ping[95976:f207] 21:12:25.453 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:12:26.631 Ping[95976:f807] 21:12:26.631 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:12:26.680 Ping[95976:c807] 21:12:26.680 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-07 21:12:27.747 Ping[95976:10007] 21:12:27.747 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:12:29.176 Ping[95976:c807] 21:12:29.176 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-07 21:13:38.248 Ping[95976:c80f] 21:13:38.248 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:13:39.282 Ping[95976:10a03] 21:13:39.282 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:13:39.481 Ping[95976:da0b] 21:13:39.481 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-07 21:13:40.612 Ping[95976:11103] 21:13:40.612 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:13:40.735 Ping[95976:da0b] 21:13:40.735 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-07 21:19:44.694 Ping[95976:10b27] 21:19:44.694 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:19:46.399 Ping[95976:e31b] 21:19:46.399 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:19:51.216 Ping[95976:12603] 21:19:51.216 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:19:52.297 Ping[95976:11a03] 21:19:52.297 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-07 21:20:02.742 Ping[95976:11907] 21:20:02.742 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:20:03.988 Ping[95976:12d07] 21:20:03.988 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-07 21:20:04.842 Ping[95976:13503] 21:20:04.842 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:20:06.562 Ping[95976:13607] 21:20:06.562 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:21:14.116 Ping[95976:12d0b] 21:21:14.116 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:24:37.383 Ping[96849:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-07 21:24:37.407 Ping[96849:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-07 21:24:37.407 Ping[96849:80b] [CDVTimer][statusbar] 0.384033ms
+2014-03-07 21:24:37.407 Ping[96849:80b] [CDVTimer][TotalPluginStartup] 0.696003ms
+2014-03-07 21:24:37.412 Ping[96849:4917] 21:24:37.412 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:24:37.502 Ping[96849:80b] Resetting plugins due to page load.
+2014-03-07 21:24:37.599 Ping[96849:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-07 21:24:57.186 Ping[96849:4113] 21:24:57.186 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 21:24:58.225 Ping[96849:2c07] 21:24:58.225 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-07 22:09:21.720 Ping[99287:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-07 22:09:21.905 Ping[99287:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-07 22:09:21.905 Ping[99287:80b] [CDVTimer][statusbar] 0.414014ms
+2014-03-07 22:09:21.906 Ping[99287:80b] [CDVTimer][TotalPluginStartup] 0.745952ms
+2014-03-07 22:09:21.916 Ping[99287:4a17] 22:09:21.916 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 22:09:22.075 Ping[99287:80b] Resetting plugins due to page load.
+2014-03-07 22:09:22.220 Ping[99287:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-07 22:09:31.141 Ping[99287:4b1f] 22:09:31.141 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 22:09:32.367 Ping[99287:b70f] 22:09:32.367 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 22:09:33.481 Ping[99287:c003] 22:09:33.481 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 22:09:34.407 Ping[99287:b80b] 22:09:34.406 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 22:09:35.843 Ping[99287:c30b] 22:09:35.843 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 22:09:37.060 Ping[99287:bd0f] 22:09:37.060 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 22:09:37.334 Ping[99287:dd03] 22:09:37.334 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 22:09:38.272 Ping[99287:af03] 22:09:38.272 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-07 22:09:38.324 Ping[99287:bf0f] 22:09:38.324 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 22:09:38.612 Ping[99287:e607] 22:09:38.612 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-07 22:09:39.525 Ping[99287:af03] 22:09:39.525 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-08 21:29:48.838 Ping[1762:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-08 21:29:49.052 Ping[1762:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-08 21:29:49.052 Ping[1762:80b] [CDVTimer][statusbar] 0.504017ms
+2014-03-08 21:29:49.053 Ping[1762:80b] [CDVTimer][TotalPluginStartup] 0.944018ms
+2014-03-08 21:29:49.063 Ping[1762:4a17] 21:29:49.063 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-08 21:29:49.246 Ping[1762:80b] Resetting plugins due to page load.
+2014-03-08 21:29:49.427 Ping[1762:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-08 21:29:59.225 Ping[1762:aa07] 21:29:59.225 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-08 21:30:01.731 Ping[1762:2b0f] 21:30:01.731 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-08 21:30:02.765 Ping[1762:2c07] 21:30:02.765 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-08 21:30:03.229 Ping[1762:b90b] 21:30:03.229 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-08 21:30:05.112 Ping[1762:c007] 21:30:05.112 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-08 21:30:06.352 Ping[1762:2c07] 21:30:06.352 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-08 21:30:07.994 Ping[1762:c30b] 21:30:07.994 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-08 21:30:09.197 Ping[1762:bd0b] 21:30:09.197 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-08 21:30:10.151 Ping[1762:d803] 21:30:10.151 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-08 21:30:10.253 Ping[1762:2c07] 21:30:10.253 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-08 21:30:11.738 Ping[1762:df03] 21:30:11.738 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-08 21:30:13.406 Ping[1762:e50b] 21:30:13.406 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-08 21:30:14.300 Ping[1762:ef03] 21:30:14.300 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-08 21:30:14.940 Ping[1762:f407] 21:30:14.940 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-08 21:30:15.613 Ping[1762:fa07] 21:30:15.613 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-08 21:30:21.247 Ping[1762:e70b] 21:30:21.247 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-08 21:30:22.403 Ping[1762:10407] 21:30:22.403 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-08 21:30:23.813 Ping[1762:ea0f] 21:30:23.813 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-08 21:30:25.019 Ping[1762:a203] 21:30:25.019 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-08 22:58:00.684 Ping[3428:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-08 22:58:00.706 Ping[3428:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-08 22:58:00.707 Ping[3428:80b] [CDVTimer][statusbar] 0.429034ms
+2014-03-08 22:58:00.707 Ping[3428:80b] [CDVTimer][TotalPluginStartup] 0.804961ms
+2014-03-08 22:58:00.780 Ping[3428:80b] Resetting plugins due to page load.
+2014-03-08 22:58:00.871 Ping[3428:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-08 22:58:21.918 Ping[4078:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-08 22:58:21.942 Ping[4078:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-08 22:58:21.943 Ping[4078:80b] [CDVTimer][statusbar] 0.476003ms
+2014-03-08 22:58:21.943 Ping[4078:80b] [CDVTimer][TotalPluginStartup] 0.891030ms
+2014-03-08 22:58:22.023 Ping[4078:80b] Resetting plugins due to page load.
+2014-03-08 22:58:22.128 Ping[4078:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-08 22:58:25.975 Ping[4078:80b] THREAD WARNING: ['TTSPlugin'] took '11.680664' ms. Plugin should use a background thread.
+2014-03-08 22:58:25.975 Ping[4078:4113] 22:58:25.975 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-08 22:58:28.545 Ping[4078:b207] 22:58:28.544 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-08 22:58:29.474 Ping[4078:bc0b] 22:58:29.474 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-08 22:58:31.466 Ping[4078:1707] 22:58:31.466 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-08 22:58:32.694 Ping[4078:a707] 22:58:32.694 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-08 22:58:34.538 Ping[4078:41f] 22:58:34.538 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-08 22:58:35.662 Ping[4078:1203] 22:58:35.662 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-08 23:14:49.235 Ping[4078:d403] 23:14:49.235 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-08 23:14:50.367 Ping[4078:d707] 23:14:50.367 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+Terminating in response to SpringBoard's termination.
+2014-03-08 23:24:59.740 Ping[5271:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-08 23:24:59.815 Ping[5271:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-08 23:24:59.817 Ping[5271:80b] [CDVTimer][statusbar] 1.392961ms
+2014-03-08 23:24:59.818 Ping[5271:80b] [CDVTimer][TotalPluginStartup] 2.629995ms
+2014-03-08 23:24:59.911 Ping[5271:80b] Resetting plugins due to page load.
+2014-03-08 23:25:00.208 Ping[5271:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-08 23:25:10.660 Ping[5271:80b] THREAD WARNING: ['TTSPlugin'] took '29.598145' ms. Plugin should use a background thread.
+2014-03-08 23:25:10.660 Ping[5271:6013] 23:25:10.660 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-08 23:35:05.087 Ping[6237:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-08 23:35:05.148 Ping[6237:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-08 23:35:05.150 Ping[6237:80b] [CDVTimer][statusbar] 1.288950ms
+2014-03-08 23:35:05.151 Ping[6237:80b] [CDVTimer][TotalPluginStartup] 2.310038ms
+2014-03-08 23:35:05.249 Ping[6237:80b] Resetting plugins due to page load.
+2014-03-08 23:35:05.588 Ping[6237:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-08 23:35:12.884 Ping[6237:4113] 23:35:12.883 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-08 23:35:12.924 Ping[6237:80b] THREAD WARNING: ['TTSPlugin'] took '59.551025' ms. Plugin should use a background thread.
+2014-03-08 23:35:14.073 Ping[6237:1203] 23:35:14.073 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-08 23:35:17.866 Ping[6237:80b] OK button clicked
+2014-03-08 23:35:19.012 Ping[6237:6f07] 23:35:19.012 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-08 23:35:19.032 Ping[6237:80b] THREAD WARNING: ['TTSPlugin'] took '20.746826' ms. Plugin should use a background thread.
+2014-03-08 23:35:19.896 Ping[6237:80b] OK button clicked
+2014-03-08 23:35:20.655 Ping[6237:c007] 23:35:20.655 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-08 23:35:20.674 Ping[6237:80b] THREAD WARNING: ['TTSPlugin'] took '20.678955' ms. Plugin should use a background thread.
+2014-03-08 23:35:21.725 Ping[6237:80b] OK button clicked
+2014-03-08 23:36:06.942 Ping[6840:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-08 23:36:06.967 Ping[6840:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-08 23:36:06.967 Ping[6840:80b] [CDVTimer][statusbar] 0.469029ms
+2014-03-08 23:36:06.968 Ping[6840:80b] [CDVTimer][TotalPluginStartup] 0.837982ms
+2014-03-08 23:36:07.055 Ping[6840:80b] Resetting plugins due to page load.
+2014-03-08 23:36:07.178 Ping[6840:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-08 23:36:13.357 Ping[6840:6a07] 23:36:13.357 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-08 23:36:13.376 Ping[6840:80b] THREAD WARNING: ['TTSPlugin'] took '31.133789' ms. Plugin should use a background thread.
+2014-03-08 23:36:14.816 Ping[6840:80b] OK button clicked
+2014-03-09 00:08:19.160 Ping[8311:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-09 00:08:19.184 Ping[8311:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-09 00:08:19.185 Ping[8311:80b] [CDVTimer][statusbar] 0.703990ms
+2014-03-09 00:08:19.185 Ping[8311:80b] [CDVTimer][TotalPluginStartup] 1.186013ms
+2014-03-09 00:08:19.267 Ping[8311:80b] Resetting plugins due to page load.
+2014-03-09 00:08:19.368 Ping[8311:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-09 00:08:36.017 Ping[8311:670b] 00:08:36.017 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-09 00:08:36.025 Ping[8311:80b] *** Assertion failure in -[UIApplication runModal:](), /SourceCache/UIKit_Sim/UIKit-2903.23/UIApplication.m:9465
+2014-03-09 00:08:36.025 Ping[8311:80b] *** WebKit discarded an uncaught exception in the webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame: delegate: <NSInternalInconsistencyException> The view passed in does not have a window.
+2014-03-09 00:08:36.026 Ping[8311:80b] THREAD WARNING: ['TTSPlugin'] took '20.693848' ms. Plugin should use a background thread.
+2014-03-09 00:08:36.058 Ping[8311:6503] 00:08:36.058 ERROR:     185: Error creating aggregate audio device: 'nope'
+2014-03-09 00:08:36.059 Ping[8311:6503] 00:08:36.059 WARNING:   219: The input device is 0x39; 'AppleHDAEngineInput:1B,0,1,0:1'
+2014-03-09 00:08:36.059 Ping[8311:6503] 00:08:36.059 WARNING:   223: The output device is 0x2f; 'AppleHDAEngineOutput:1B,0,1,1:0'
+2014-03-09 00:08:36.060 Ping[8311:6503] 00:08:36.060 ERROR:     398: error 'nope'
+2014-03-09 00:08:36.060 Ping[8311:6d07] 00:08:36.060 ERROR:     398: error -66680
+2014-03-09 00:08:36.060 Ping[8311:6d07] 00:08:36.060 ERROR:     >aq> 1608: failed (-66680); will stop (33075/0 frames)
+2014-03-09 00:08:38.319 Ping[8311:80b] OK button clicked
+2014-03-09 00:12:19.558 Ping[8311:80b] *** Assertion failure in -[UIApplication runModal:](), /SourceCache/UIKit_Sim/UIKit-2903.23/UIApplication.m:9465
+2014-03-09 00:12:19.559 Ping[8311:80b] *** WebKit discarded an uncaught exception in the webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame: delegate: <NSInternalInconsistencyException> The view passed in does not have a window.
+2014-03-09 00:12:19.797 Ping[8311:120b] 00:12:19.797 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-09 00:12:19.799 Ping[8311:80b] *** Assertion failure in -[UIApplication runModal:](), /SourceCache/UIKit_Sim/UIKit-2903.23/UIApplication.m:9465
+2014-03-09 00:12:19.799 Ping[8311:80b] *** WebKit discarded an uncaught exception in the webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame: delegate: <NSInternalInconsistencyException> The view passed in does not have a window.
+2014-03-09 00:12:21.739 Ping[8311:80b] OK button clicked
+2014-03-09 00:13:12.997 Ping[8311:80b] *** Assertion failure in -[UIApplication runModal:](), /SourceCache/UIKit_Sim/UIKit-2903.23/UIApplication.m:9465
+2014-03-09 00:13:12.998 Ping[8311:80b] *** WebKit discarded an uncaught exception in the webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame: delegate: <NSInternalInconsistencyException> The view passed in does not have a window.
+2014-03-09 00:13:13.007 Ping[8311:b603] 00:13:13.007 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-09 00:13:13.008 Ping[8311:80b] *** Assertion failure in -[UIApplication runModal:](), /SourceCache/UIKit_Sim/UIKit-2903.23/UIApplication.m:9465
+2014-03-09 00:13:13.009 Ping[8311:80b] *** WebKit discarded an uncaught exception in the webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame: delegate: <NSInternalInconsistencyException> The view passed in does not have a window.
+2014-03-09 00:13:22.134 Ping[8311:80b] OK button clicked
+2014-03-09 00:17:34.881 Ping[9016:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-09 00:17:34.909 Ping[9016:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-09 00:17:34.909 Ping[9016:80b] [CDVTimer][statusbar] 0.486016ms
+2014-03-09 00:17:34.910 Ping[9016:80b] [CDVTimer][ttsplugin] 0.057042ms
+2014-03-09 00:17:34.910 Ping[9016:80b] [CDVTimer][TotalPluginStartup] 1.294017ms
+2014-03-09 00:17:34.980 Ping[9016:80b] Resetting plugins due to page load.
+2014-03-09 00:17:35.092 Ping[9016:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8A7437D5-844E-42E1-8D8E-108098282728/Ping.app/www/index.html#/
+2014-03-09 00:17:42.886 Ping[9016:6513] 00:17:42.886 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-09 00:17:42.893 Ping[9016:80b] *** Assertion failure in -[UIApplication runModal:](), /SourceCache/UIKit_Sim/UIKit-2903.23/UIApplication.m:9465
+2014-03-09 00:17:42.893 Ping[9016:80b] *** WebKit discarded an uncaught exception in the webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame: delegate: <NSInternalInconsistencyException> The view passed in does not have a window.
+2014-03-09 00:17:42.894 Ping[9016:80b] THREAD WARNING: ['TTSPlugin'] took '24.078857' ms. Plugin should use a background thread.
+2014-03-09 00:17:42.925 Ping[9016:7503] 00:17:42.925 ERROR:     185: Error creating aggregate audio device: 'nope'
+2014-03-09 00:17:42.926 Ping[9016:7503] 00:17:42.926 WARNING:   219: The input device is 0x39; 'AppleHDAEngineInput:1B,0,1,0:1'
+2014-03-09 00:17:42.926 Ping[9016:7503] 00:17:42.926 WARNING:   223: The output device is 0x2f; 'AppleHDAEngineOutput:1B,0,1,1:0'
+2014-03-09 00:17:42.926 Ping[9016:7503] 00:17:42.926 ERROR:     398: error 'nope'
+2014-03-09 00:17:42.927 Ping[9016:6c07] 00:17:42.927 ERROR:     398: error -66680
+2014-03-09 00:17:42.927 Ping[9016:6c07] 00:17:42.927 ERROR:     >aq> 1608: failed (-66680); will stop (33075/0 frames)
+2014-03-09 00:17:44.840 Ping[9016:80b] OK button clicked
